@@ -44,4 +44,8 @@ defmodule Rightmove.Parser do
   def find_property_available_date(html) do
     html |> Floki.find(~s|dt:fl-contains("Let available date:") + dd|) |> Floki.text()
   end
+
+  def find_property_description(html) do
+    html |> Floki.find(~s|h2:fl-contains("Property description") + div > div|) |> Floki.text() |> String.trim()
+  end
 end
