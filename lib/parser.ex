@@ -25,7 +25,7 @@ defmodule Rightmove.Parser do
           |> Floki.find(".propertyCard-branchLogo-image")
           |> Floki.attribute("alt")
           |> List.first(),
-        "floorplan" => card |> Floki.find("a[title=\"Floor plan\"]") != []
+        "floorplan" => card |> Floki.find(~s/a[title="Floor plan"]/) != []
       }
     end
     |> Enum.filter(fn property -> property["address"] end)
