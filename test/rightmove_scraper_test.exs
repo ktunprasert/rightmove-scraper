@@ -1,8 +1,8 @@
-defmodule RightmoveScraperTest do
+defmodule RightmoveTest do
   use ExUnit.Case
-  doctest RightmoveScraper
+  doctest Rightmove
 
   test "greets the world" do
-    assert RightmoveScraper.hello() == :world
+    assert Rightmove.hello() == :world
   end
 end

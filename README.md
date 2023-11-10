@@ -1,4 +1,4 @@
-# RightmoveScraper
+# Rightmove
 
 **TODO: Add description**
 

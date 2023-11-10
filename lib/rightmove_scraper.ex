@@ -1,6 +1,6 @@
-defmodule RightmoveScraper do
+defmodule Rightmove do
   @moduledoc """
-  Documentation for `RightmoveScraper`.
+  Documentation for `Rightmove`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule RightmoveScraper do
 
   ## Examples
 
-      iex> RightmoveScraper.hello()
+      iex> Rightmove.hello()
       :world
 
   """

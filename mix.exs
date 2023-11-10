@@ -1,4 +1,4 @@
-defmodule RightmoveScraper.MixProject do
+defmodule Rightmove.MixProject do
   use Mix.Project
 
   def project do
