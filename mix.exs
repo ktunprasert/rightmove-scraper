@@ -22,7 +22,8 @@ defmodule RightmoveScraper.MixProject do
   defp deps do
     [
       {:httpoison, "~> 2.2"},
-      {:jason, "~> 1.4"}
+      {:jason, "~> 1.4"},
+      {:floki, "~> 0.35.0"}
     ]
   end
 end
