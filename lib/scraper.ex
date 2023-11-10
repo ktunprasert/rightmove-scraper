@@ -31,6 +31,6 @@ defmodule Rightmove.Scraper do
         description: Parser.find_property_description(page_html)
       })
     end)
-    |> Enum.flat_map(fn {:ok, map} -> map end)
+    |> Enum.map(fn {:ok, map} -> map end)
   end
 end
