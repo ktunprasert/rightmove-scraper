@@ -25,8 +25,12 @@ defmodule Rightmove.Scraper do
     |> Task.async_stream(fn %{} = map ->
       page_html = map["link"] |> HTTPoison.get!() |> Map.get(:body) |> Floki.parse_document!()
 
-      %{map | floorplan_img: Parser.find_floorplan(page_html)}
+      Map.merge(map, %{
+        floorplan_img: Parser.find_floorplan(page_html),
+        available: Parser.find_property_available_date(page_html),
+        description: Parser.find_property_description(page_html)
+      })
     end)
-    |> Enum.to_list()
+    |> Enum.flat_map(fn {:ok, map} -> map end)
   end
 end
