@@ -28,10 +28,6 @@ defmodule Rightmove.Parser do
         "floorplan" => card |> Floki.find("a[title=\"Floor plan\"]") != []
       }
     end
+    |> Enum.filter(fn property -> property["address"] end)
   end
 end
-
-# https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E85362&maxBedrooms=2&minBedrooms=2&maxPrice=2800&propertyTypes=&includeLetAgreed=false&mustHave=&dontShow=&furnishTypes=furnished&keywords=
-# https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION^85362&maxBedrooms=2&minBedrooms=2&maxPrice=2800&index=24&propertyTypes=&includeLetAgreed=false&mustHave=&dontShow=&furnishTypes=furnished&keywords%3d
-
-# https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION^85362&maxBedrooms=2&minBedrooms=2&maxPrice=2800&index=24&propertyTypes=&includeLetAgreed=false&mustHave=&dontShow=&furnishTypes=furnished&keywords=
