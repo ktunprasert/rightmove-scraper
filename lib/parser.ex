@@ -40,4 +40,8 @@ defmodule Rightmove.Parser do
       String.replace(imgsrc, "_max_296x197", "")
     end
   end
+
+  def find_property_available_date(html) do
+    html |> Floki.find(~s|dt:fl-contains("Let available date:") + dd|) |> Floki.text()
+  end
 end
