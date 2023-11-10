@@ -22,5 +22,11 @@ defmodule Rightmove.Scraper do
       Parser.find_properties(html)
     end)
     |> Enum.flat_map(fn {:ok, properties} -> properties end)
+    |> Task.async_stream(fn %{} = map ->
+      page_html = map["link"] |> HTTPoison.get!() |> Map.get(:body) |> Floki.parse_document!()
+
+      %{map | floorplan_img: Parser.find_floorplan(page_html)}
+    end)
+    |> Enum.to_list()
   end
 end
