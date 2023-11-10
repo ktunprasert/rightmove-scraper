@@ -30,4 +30,14 @@ defmodule Rightmove.Parser do
     end
     |> Enum.filter(fn property -> property["address"] end)
   end
+
+  def find_floorplan(html) do
+    with imgsrc when imgsrc != nil <-
+           html
+           |> Floki.find(~s{[href*="#/floorplan"] img})
+           |> Floki.attribute("src")
+           |> List.first() do
+      String.replace(imgsrc, "_max_296x197", "")
+    end
+  end
 end
