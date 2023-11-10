@@ -9,7 +9,8 @@ defmodule Rightmove.Parser do
           card
           |> Floki.find(".propertyCard-link")
           |> Floki.attribute("href")
-          |> Enum.map(&"https://www.rightmove.co.uk#{&1}")
+          |> List.first()
+          |> then(&"https://www.rightmove.co.uk#{&1}")
       }
     end
   end
