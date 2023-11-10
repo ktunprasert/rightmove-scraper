@@ -11,21 +11,21 @@ defmodule Rightmove.Parser do
   def find_properties(html) do
     for card <- html |> Floki.find(".propertyCard") do
       %{
-        "title" => card |> Floki.find(".propertyCard-title") |> Floki.text() |> String.trim(),
-        "address" => card |> Floki.find(".propertyCard-address") |> Floki.text(),
-        "price" => card |> Floki.find(".propertyCard-priceValue") |> Floki.text(),
-        "link" =>
+        title: card |> Floki.find(".propertyCard-title") |> Floki.text() |> String.trim(),
+        address: card |> Floki.find(".propertyCard-address") |> Floki.text(),
+        price: card |> Floki.find(".propertyCard-priceValue") |> Floki.text(),
+        link:
           card
           |> Floki.find(".propertyCard-link")
           |> Floki.attribute("href")
           |> List.first()
           |> then(&"https://www.rightmove.co.uk#{&1}"),
-        "agency" =>
+        agency:
           card
           |> Floki.find(".propertyCard-branchLogo-image")
           |> Floki.attribute("alt")
           |> List.first(),
-        "floorplan" => card |> Floki.find(~s/a[title="Floor plan"]/) != []
+        floorplan: card |> Floki.find(~s/a[title="Floor plan"]/) != []
       }
     end
     |> Enum.filter(fn property -> property["address"] end)
