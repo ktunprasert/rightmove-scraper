@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   build:
-    name: Build & Deploy static page
+    name: Build MD file and commit to repo
     runs-on: ubuntu-latest
 
     steps:
