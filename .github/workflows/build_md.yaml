@@ -3,8 +3,6 @@ name: Build md file
 on:
   push:
     branches: ["master"]
-    paths:
-      - "gen/**.json"
   workflow_dispatch:
 
 permissions:
