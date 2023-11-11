@@ -21,7 +21,7 @@ defmodule Rightmove.Scraper do
     Task.async_stream(htmls, fn html ->
       Parser.find_properties(html)
     end)
-    |> Enum.flat_map(fn {:ok, properties} -> properties end)
+    |> Stream.flat_map(fn {:ok, properties} -> properties end)
     |> Task.async_stream(fn %{} = map ->
       page_html = map["link"] |> HTTPoison.get!() |> Map.get(:body) |> Floki.parse_document!()
 
