@@ -993,7 +993,14 @@ Fairmont Avenue, E14</a></td>
   ---
   ## Gainsborough House, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,448 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141268145#/?channel=RES_LET">Gainsborough House, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   An immaculate two bedroom, two bathroom property, close to Canary Wharf.
 
@@ -1006,7 +1013,14 @@ The closest DLR station is South Quay, which offers good connections to Bank, Ca
 This property is available with a Deposit Free option which means that instead of paying a traditional five weeks security deposit, you pay a fee of one weeks rent + VAT (subject to a minimum of £120 + VAT) to become a member of a deposit free renting scheme which significantly reduces the up-front costs. This fee is non-refundable and is not a deposit so cannot be used towards covering the cost of any future damage.
   ## Gainsborough House, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,448 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141268145#/?channel=RES_LET">Gainsborough House, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   An immaculate two bedroom, two bathroom property, close to Canary Wharf.
 
@@ -1019,17 +1033,38 @@ The closest DLR station is South Quay, which offers good connections to Bank, Ca
 This property is available with a Deposit Free option which means that instead of paying a traditional five weeks security deposit, you pay a fee of one weeks rent + VAT (subject to a minimum of £120 + VAT) to become a member of a deposit free renting scheme which significantly reduces the up-front costs. This fee is non-refundable and is not a deposit so cannot be used towards covering the cost of any future damage.
   ## Narrow Street, Limehouse, Westferry Road, London, E14 8BP 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,383 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141920195#/?channel=RES_LET">Narrow Street, Limehouse, Westferry Road, London, E14 8BP</a>
+  - Jack Barclay Estates, London Logo
 
   Jack Barclay Estates are pleased to offer this spacious 2 bedroom apartment located in this sought after location on Narrow Street, Limehouse. This property benefits from having double glazing, one double bedroom, open plan kitchen lounge, tiled bathroom and shower, laminated flooring, neutral decor and comes furnished or unfurnished.
   ## New Providence Wharf, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/78k/77148/140722145/77148_190035_FLP_00_0000.jpeg" alt="">
+
+  - £2,650 pcm
+  - 09/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/140722145#/?channel=RES_LET">New Providence Wharf, E14</a>
+  - Alliance London, London Logo
 
   Alliance London are please to offer a fantastic two bedroom apartment that is situated in a modern block with stunning balcony views. Spacious, warm and bright, you will find everything you need. There are 2 bathrooms, 2 double bedrooms, a fully fitted kitchen, and a living room with dining table. There is a balcony with river views and the development has a gym onsite with a swimming pool 7 minute walk from the Blackwall DLR station, or East India DLR station. The DLR provides a direct service to Bank station, which then provides Central and Northern line service to the rest of London. You are also a 15 minute walk from the Canary Wharf tube station, which provides very fast tube service into the centre of London via the Jubilee line.
   ## ABILITY PLACE 37 MILLHARBOUR E14 9DF  2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,600 pcm
+  - 15/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141915437#/?channel=RES_LET">ABILITY PLACE 37 MILLHARBOUR E14 9DF </a>
+  - Campbell Residential, Docklands Logo
 
   Extremely spacious two double bedroom two bathroom furnished luxury apartment with parking located on the 15th floor of the highly sought after dock side development Ability Place offering spectacular views located moments from the centre of Canary Wharf.
 
@@ -1051,7 +1086,14 @@ Council tax band G
 Disclaimer: Campbell Residential endeavour to advertise accurate representations of properties in descriptions, virtual tours and floor plans, however, they are intended as a guide only and interested parties must satisfy themselves by undertaking a personal inspection.
   ## Millennium Drive, Isle Of Dogs, London 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £1,846 pcm
+  - 12/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141913850#/?channel=RES_LET">Millennium Drive, Isle Of Dogs, London</a>
+  - Global House Estates, London Logo
 
   Stylishly decorated, this fabulous two bedroom first floor apartment within in this popular and secure Millennium Drive development boasts secure gated parking, bright and modern accommodation. The property comprises spacious reception/dining room, sizeable fitted kitchen with appliances, two double bedrooms, the master of which has fitted storage and an en suite bathroom, separate bathroom, a Juliet balcony that looks out towards the development and allocated secure gated parking. Millennium drive is fashionably located next to the Greenwich foot tunnel and within walking distance of the many elite shops, bars and restaurants of Canary Wharf and West India Quay. Local transport links include Canary Wharf Station.
 
@@ -1062,49 +1104,98 @@ EPC Grade D, Deposit is £2134.65 Council Tax Band E
 All data and information set forth on this website regarding real property, for sale, purchase, rental and/or financing, are from sources regarded as reliable. No warranties are made as to the accuracy of any descriptions and/or other details and such information is subject to errors, omissions, changes of price, tenancies, commissions, prior sales, leases or financing, or withdrawal without notice. Square footages are approximate and may be verified by consulting a professional architect or engineer.
   ## Schooner Close, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/141272345/82537_32685883_FLP_00_0000.jpeg" alt="">
+
+  - £2,297 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141272345#/?channel=RES_LET">Schooner Close, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A two bedroom two bathroom split level apartment with private garden. The apartment has wood flooring, built in storage, a private garage and parking.
 
 Schooner Close is located less than half a mile from Mudchute DLR station providing easy access to Canary Wharf and the City.
   ## Schooner Close, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/199k/198539/141582650/198539_32702574_FLP_00_0000.jpeg" alt="">
+
+  - £2,297 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141582650#/?channel=RES_LET">Schooner Close, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A two bedroom two bathroom split level apartment with private garden. The apartment has wood flooring, built in storage, a private garage and parking.
 
 Schooner Close is located less than half a mile from Mudchute DLR station providing easy access to Canary Wharf and the City.
   ## Cassilis Road, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/141908759/82537_32719508_FLP_00_0000.jpeg" alt="">
+
+  - £2,396 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141908759#/?channel=RES_LET">Cassilis Road, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A large two bedroom apartment on sixth floor of this sought after development. This bright apartment has two bathrooms, a private balcony and a residents gym and pool and concierge.
 
 Gainsborough House is in the heart of South Quay, moments from Millharbour Dock and a selection of shops, bars and restaurants in Canary Wharf.
   ## Westferry Road, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,197 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141902999#/?channel=RES_LET">Westferry Road, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A large two bedroom apartment on the fourth floor of this sought after development. This spacious apartment has floor to ceiling windows, two bathrooms and river views.
 
 Millennium Harbour is a riverside development moments from the bars and restaurants of Westferry Circus, including the popular  Royal China.
   ## Province Square, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,249 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141900986#/?channel=RES_LET">Province Square, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A modern two bedroom two bathroom apartment on the 12th floor of this sought after development. With an open plan reception room, tiled flooring, private balcony and concierge.
 
 Streamlight Tower is a modern development moments from the Poplar Dock Marina and the shops, bars, restaurants of Canary Wharf.
   ## Tasman Court, 244 Westferry Road, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/67k/66685/141887444/66685_32718399_FLP_00_0000.gif" alt="">
+
+  - £2,300 pcm
+  - 30/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141887444#/?channel=RES_LET">Tasman Court, 244 Westferry Road, E14</a>
+  - Franklyn James, Westferry Logo
 
   Offering spacious two bedroom and two bathroom property boasting a modern kitchen alongside an open-plan living space with a private balcony which provides an abundance of natural light to the living room. 
 
 Tasman Court is located close to the local shops and amenities on Westferry Road alongside being moments away from Canary Wharf, Mudchute Park and the River Thames.
   ## Gainsborough House, Cassilis Road, Canary Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/53k/52518/141867176/52518_CWL230099_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,650 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141867176#/?channel=RES_LET">Gainsborough House, Cassilis Road, Canary Wharf, London, E14</a>
+  - Life Residential, Canary Wharf Office - Lettings Logo
 
   Set within the ever-popular Canary Central development, this generously sized apartment comprises of an open plan kitchen and living area where you can enjoy some peace and quiet after the hustle and bustle of the Canary Wharf working day. 
 
@@ -1115,7 +1206,14 @@ The kitchen is perfectly designed to maximise your work and storage space, and t
 Located just a 10-minute walk from Canary Wharf, and within a 3-minute walk of South Quay DLR station, this development has remained popular with professionals over many years due to its convenient commute to and from London's busiest business areas. Secure underground parking also included!
   ## Indescon Square, Canary Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/53k/52518/141859418/52518_CWL230094_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,400 pcm
+  - 16/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141859418#/?channel=RES_LET">Indescon Square, Canary Wharf, London, E14</a>
+  - Life Residential, Canary Wharf Office - Lettings Logo
 
   When you get a spare moment, you will want to come and see this stunning Two Bedroom / Two Bathroom apartment.
 
@@ -1127,7 +1225,14 @@ The local area provides you with close by shops as well as all the amenities Can
 Does this sound like the perfect place for you? Give us a call on   to arrange a viewing while it is still fresh on the market.
   ## Duckman Tower, 3 Lincoln Plaza, Canary Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/53k/52518/141304133/52518_CWL150024_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,750 pcm
+  - 13/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141304133#/?channel=RES_LET">Duckman Tower, 3 Lincoln Plaza, Canary Wharf, London, E14</a>
+  - Life Residential, Canary Wharf Office - Lettings Logo
 
   Fancy a luxurious and modern way of living? Well prepare yourself because we have something majestic for you!
 
@@ -1140,7 +1245,14 @@ You are right next to hustle and bustle of Canary Wharf, with easy access to ove
 The location is ideal, being situated minutes walk to South Quay DLR station commuting into Stratford or the City is a breeze! You can even enjoy the perks of the 24-hour jubilee line by walking to Canary Wharf station. Commuting around London has never been easier. Sound like the perfect place for you?
   ## Ability Place, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,700 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141382460#/?channel=RES_LET">Ability Place, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1877571.
 
@@ -1184,7 +1296,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Telegraph Place, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/97k/96668/141849287/96668_189060208112023_FLP_00_0000.jpeg" alt="">
+
+  - £1,865 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141849287#/?channel=RES_LET">Telegraph Place, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1890602.
 
@@ -1218,7 +1337,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Indescon Square, Canary Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/53k/52518/141844805/52518_CWL100311_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,500 pcm
+  - 20/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141844805#/?channel=RES_LET">Indescon Square, Canary Wharf, London, E14</a>
+  - Life Residential, Canary Wharf Office - Lettings Logo
 
   When you get a spare moment you'll want to come and see this 2 bedroom, 2 bathroom apartment. The apartment sits on a high floor of the Indescon Square development where you can sit back and relax on your own private balcony after a long day at the office. 
 
@@ -1227,21 +1353,42 @@ Enjoy your own paradise of comfort and modernity in the open plan kitchen and li
 Sometimes living in the city can be pretty noisy, but living here offers a moment of rare tranquillity amongst the popular business districts, with no busy roads outside your door. The local area provides you with close by shops as well as all the amenities Canary Wharf has to offer. The 24hr concierge are always on hand to help you collect parcels or even just to make you feel safe whilst walking around the development. Situated only 0.5 miles from Canary Wharf Tube station and 0.4 miles from South Quay DLR, commuting to work, whether you work in Canary Wharf itself or the City, is easy.
   ## Limeview Apartments, 2 John Nash Mews, Limehouse, Canary Wharf, London, E14 7GQ 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,405 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141869639#/?channel=RES_LET">Limeview Apartments, 2 John Nash Mews, Limehouse, Canary Wharf, London, E14 7GQ</a>
+  - Jack Barclay Estates, London Logo
 
   Jack Barclay Estates are offering a 2 double bedroom apartment set within this stylish gated development. Situated on the third floor, the fully furnished property comprises of an open-plan lounge/kitchen with fully integrated appliances, a modern bathroom and a spacious 2 double bedrooms. The property benefits from having a private balcony providing an abundance of natural light and lovely views of the Limehouse basin.
 
 A superb location close to vibrant bars and restaurants. The property has easy access to Narrow Street which provides a lovely river walk along the Thames. It is also within walking distance to Limehouse DLR, offering access into the financial hub of Canary Wharf, City and West End.
   ## Marina Heights, Basin Approach, Limehouse, Westferry, Canary Wharf, London, E14 7JA 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,405 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141833450#/?channel=RES_LET">Marina Heights, Basin Approach, Limehouse, Westferry, Canary Wharf, London, E14 7JA</a>
+  - Jack Barclay Estates, London Logo
 
   Jack Barclay Estates is proud to offer an extensive one bedroom apartment that includes a neat kitchen, spacious reception, polished bathroom and balcony that involves a appealing view of The Famous River Thames.
 
 This superb apartment on Basin Approach is easily located as it is walking distance to Limehouse DLR Station, in addition the A12 & A13 are found on Commercial Road which is less than a minute away.
   ## Victory Place, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/15k/14546/140667779/14546_DLL160155_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,395 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/140667779#/?channel=RES_LET">Victory Place, E14</a>
+  - Hurford Salvi Carr, Docklands Logo
 
   Available mid November is this immaculately presented two double bedroom second floor apartment boasting Limehouse Basin water views from a large private balcony.
 
@@ -1254,7 +1401,14 @@ Victory Place is located in the heart of Limehouse and sits on the edge of the M
 The property is offered fully furnished* and has a private parking space. A prompt internal viewing is recommended.
   ## Vantage Mews, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,500 pcm
+  - 23/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/86528436#/?channel=RES_LET">Vantage Mews, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1861005.
 
@@ -1292,7 +1446,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Millharbour, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/37k/36789/141820265/36789_CAR150122_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,492 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141820265#/?channel=RES_LET">Millharbour, London, E14</a>
+  - CBRE Residential, Docklands Logo
 
   This spacious and beautifully furnished two-bedroom, two-bathroom flat offers the perfect blend of modern living and convenience. 
 
@@ -1318,7 +1479,14 @@ For more information about our fees please visit our web-site’s ‘Tenant Fees
 4. Unless otherwise stated, all purchase prices and rents are correct at the date of publication and, unless otherwise stated,  are quoted exclusive of VAT.  Lease details and service ground rent (where applicable) are given as a guide only and should be checked and confirmed by your solicitor prior to exchange of contracts.
   ## Leyland House, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,100 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141694445#/?channel=RES_LET">Leyland House, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1801542.
 
@@ -1368,14 +1536,28 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Meridian Place, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,773 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/139825616#/?channel=RES_LET">Meridian Place, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A two bedroom property on the second floor of Meridian Place. This property has a spacious living space, separate kitchen, wood floors, ample storage, two double bedrooms, two bathrooms and a private balcony with dock views. Underground parking also available.
 
 Located just around the corner from the footbridge that takes you directly into Canary Wharf Station and the local shopping centre for all shops, bars and restaurants.
   ## Gainsborough House, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,448 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141268145#/?channel=RES_LET">Gainsborough House, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   An immaculate two bedroom, two bathroom property, close to Canary Wharf.
 
@@ -1388,28 +1570,56 @@ The closest DLR station is South Quay, which offers good connections to Bank, Ca
 This property is available with a Deposit Free option which means that instead of paying a traditional five weeks security deposit, you pay a fee of one weeks rent + VAT (subject to a minimum of £120 + VAT) to become a member of a deposit free renting scheme which significantly reduces the up-front costs. This fee is non-refundable and is not a deposit so cannot be used towards covering the cost of any future damage.
   ## Meridian Place, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,773 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141582632#/?channel=RES_LET">Meridian Place, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A two bedroom property on the second floor of Meridian Place. This property has a spacious living space, separate kitchen, wood floors, ample storage, two double bedrooms, two bathrooms and a private balcony with dock views. Underground parking also available.
 
 Located just around the corner from the footbridge that takes you directly into Canary Wharf Station and the local shopping centre for all shops, bars and restaurants.
   ## Manilla Street, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,401 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141793472#/?channel=RES_LET">Manilla Street, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   An exceptionally large two bedroom apartment on the second floor of this sought after development. This bright apartment has an open plan reception room, wooden flooring and a private balcony.
 
 Regatta Point is a residential development moments from the bars and restaurants of Westferry Circus, including the popular Royal China.
   ## Manchester Road, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/199k/198539/141786962/198539_32712458_FLP_00_0000.jpeg" alt="">
+
+  - £2,496 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141786962#/?channel=RES_LET">Manchester Road, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A well-proportioned two bedroom apartment set within a riverside development in Canary Wharf. Recently refurbished with new wooden flooring and redecorated throughout. The property is offered furnished with parking available by negotiation.
 
 Pierhead Lock is a gated complex near to South Quay DLR Station and within easy reach of the shops, bars, restaurants of Canary Wharf, which also has access to the Jubilee Line and Cross Rail services.
   ## Shackleton COurt, Maritime Quay, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,300 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141399986#/?channel=RES_LET">Shackleton COurt, Maritime Quay, London, E14</a>
+  - Abby Properties LTD, London Logo
 
   Abby Properties proudly presents this recently decorated and renovated two double bedroom third-floor apartment, situated within a tranquil gated riverside development. The apartment boasts an exceptionally spacious master bedroom with built-in wardrobes and a brand-new ensuite shower room. The second bedroom is generously sized, featuring built-in wardrobes and floor-to-ceiling doors that lead to a balcony. The bathroom suite includes a shower over the bath for added convenience. The apartment offers a large lounge area with floor-to-ceiling doors that open to a balcony overlooking the majestic Thames River. The fully fitted kitchen is equipped with integrated appliances and a gas hob. Throughout the apartment, newly laid wooden floors enhance the ambiance, complemented by efficient gas central heating. For added convenience, secure parking is provided. The location is ideal, being just a minute away from river services and in close proximity to Mudchute and Island Gardens DLR Stations. This desirable property is available for occupancy immediately.
 
@@ -1418,7 +1628,14 @@ Awaiting internal Photos
 Council Tax band: E
   ## Apollo Building Isle of Dogs 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/16k/15076/141437144/15076_2672512_FLP_00_0000.jpeg" alt="">
+
+  - £2,496 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141437144#/?channel=RES_LET">Apollo Building Isle of Dogs</a>
+  - Rubicon Estate Agents Limited, Narrow Street Logo
 
   Close to Mudchute DLR Station, this two-bedroom property in a modern development benefits from a light and spacious living area with fantastic views over the Thames and Southern London from its large private balcony.
 
@@ -1433,7 +1650,14 @@ The building itself is a modern, river-side development and along with a 24hr co
 The property comes either furnished or unfurnished, and is ideally located in the heart of Isle of Dogs- only a short journey away from Canary Wharf.
   ## Hamilton House Victory Place Limehouse 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,396 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/86595018#/?channel=RES_LET">Hamilton House Victory Place Limehouse</a>
+  - Rubicon Estate Agents Limited, Narrow Street Logo
 
   This well positioned TWO DOUBLE BEDROOM home sits on the LIME HOUSE MARINA with views from all rooms – including the PRIVATE BALCONY accessible via the reception.
 The SEPARATE KITCHEN sits adjacent to the reception, fully equipped with GAS HOB.
@@ -1442,7 +1666,14 @@ The GUEST ROOM is placed in between the reception and the master still offering 
 In addition, the home also benefits from being on the FIRST FLOOR with SECURE PARKING INCLUDED, HARD FLOORING THROUGHOUT, GAS HEATING and CONCIERGE SERVICE. Limehouse DLR is within a short walk around the Marina.
   ## Baltimore Wharf, Canary Wharf, London, E14 2 bedroom terraced house
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,747 pcm
+  - 15/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141774008#/?channel=RES_LET">Baltimore Wharf, Canary Wharf, London, E14</a>
+  - JOHNS&CO, Canary Wharf Logo
 
   We are proud to present this impressive 2 bedroom, 2 bathroom apartment in Baltimore Wharf which is not to be missed. Comprising an open plan living space, 2 larger bedrooms, modern bathroom and private balcony, this stylish apartment makes for a perfect home. Floor to ceiling windows create an abundance of natural light whilst making the most of the tranquil views on offer.
 
@@ -1450,7 +1681,14 @@ With excellent transport links on your doorstep, including the adjacent Crosshar
 Baltimore Wharf benefits from onsite leisure facilities; including 24hr concierge, gym, swimming pool, boxing ring & cardio area. Local amenities are in abundance with supermarkets, bars and restuarants all within walking distance.
   ## Cascades Tower, Canary Wharf, London 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,401 pcm
+  - 29/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/140909756#/?channel=RES_LET">Cascades Tower, Canary Wharf, London</a>
+  - Global House Estates, London Logo
 
   This impressive two bedroom apartment located on the 14th floor with stunning Canary Wharf views and within a short walk from the bustling Canary Wharf, situated in the Cascades Tower development. The property benefits from an abundance of light and offers a private balcony. There is an open plan kitchen which incorporates integrated appliances and a sizeable reception room leading to a private balcony with far reaching views. The master bedroom offers a walk in wardrobe along with access to a smart en suite bathroom, whilst the second bedroom also offers built in storage.  There is one secure parking space along with a 24 hour concierge, a residents' gym and swimming pool.
 Cascades Tower is the closest residential development on Westferry Road to Canary Wharf (0.4 miles). Transport links can be found at Canary Wharf Jubilee Line (0.4 miles) and Heron Quays DLR (0.3 miles). All times and distances are approximate.
@@ -1460,14 +1698,28 @@ EPC Grade C, Deposit is £2875.00 Council Tax Band F
 All data and information set forth on this website regarding real property, for sale, purchase, rental and/or financing, are from sources regarded as reliable. No warranties are made as to the accuracy of any descriptions and/or other details and such information is subject to errors, omissions, changes of price, tenancies, commissions, prior sales, leases or financing, or withdrawal without notice. Square footages are approximate and may be verified by consulting a professional architect or engineer.
   ## Baltimore Wharf, Canary Wharf, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,750 pcm
+  - 15/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141256013#/?channel=RES_LET">Baltimore Wharf, Canary Wharf, London, E14</a>
+  - Keatons, Bow Logo
 
   A luxurious two double bedroom apartment situated in the ever-popular Baltimore Wharf. The property has an open-plan kitchen which is fully equipped to a high specification and the bathroom is fitted with Italian marble. Baltimore Wharf benefits from 24-hour security and a leisure centre with gym and 25m swimming pool. The propery is just moments away from Crossharbour DLR as well as being a short walk into central Canary Wharf. Available December and offered furnished.
 
 Council Tax Band G
   ## Marsh Wall, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,450 pcm
+  - 05/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141073556#/?channel=RES_LET">Marsh Wall, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1775835.
 
@@ -1519,28 +1771,56 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Meridian Place, Canary Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,448 pcm
+  - 08/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141723542#/?channel=RES_LET">Meridian Place, Canary Wharf, London, E14</a>
+  - JOHNS&CO, Canary Wharf Logo
 
   We are proud to present this beautifully presented 2 bedroom, 2 bathroom apartment within the Meridian Place development. With dock facing views, private balcony, main bedroom with ensuite and a large living area, this apartment has it all. The modern kitchen is situated just off the living area. The property has wooden floors in the main areas, carpeted bedrooms and features lots of natural light throughout. 
 
 The location is unbeatable, with a picturesque waterfront promenade. South Quay DLR station is a 2-minute walk, and Canary Wharf Jubilee Line is only 5 minutes away. The city is a quick 12-minute DLR ride, and Oxford Street is just 25 minutes away. Surrounding the property, you'll find an array of bars, restaurants, and amenities to keep you entertained.
   ## Manilla Street, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,401 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141723512#/?channel=RES_LET">Manilla Street, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   An exceptionally large two bedroom apartment on the second floor of this sought after development. This bright apartment has an open plan reception room, wooden flooring and a private balcony.
 
 Regatta Point is a residential development moments from the bars and restaurants of Westferry Circus, including the popular Royal China.
   ## Quayside House, Westferry Road, London 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/228k/227717/141720560/227717_32708777_FLP_00_0000.jpeg" alt="">
+
+  - £2,400 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141720560#/?channel=RES_LET">Quayside House, Westferry Road, London</a>
+  - Douglas Pryce, Canary Wharf Logo
 
   We are delighted to present this stunning two bed apartment to rent, located within the fantastic Canary Wharf. This immaculate property comprises a bright and welcoming reception area, leading onto a fantastic balcony overlooking the Thames river, Canary Wharf, as well as the residential courtyard. A fully fitted kitchen, featuring bespoke countertops and a modern design enhances the home, also accompanied by a spacious master bedroom with a tiled en suite shower room, as well as a second bedroom and separate shower room.
 
 This luxury apartment has undergone a recent partial refurbishment and redecoration, offering an outstanding style of living. The property further features large dual aspect windows within, allowing floods of natural light into the home and creating a bright living space for its residents. The property not only offers a number of remarkable features, but also offers residents access to exclusive facilities including access to a swimming pool, gym, tennis court, and more. The property also benefits from parking availability, making this a home perfect for all prospective tenants.
   ## Manilla Street, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,400 pcm
+  - 12/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/86671773#/?channel=RES_LET">Manilla Street, London, E14</a>
+  - Stirling Ackroyd Lettings, Canary Wharf Logo
 
   Presenting a larger than average apartment, located in a popular block a short walk from Canary Wharf financial district.
 
@@ -1549,14 +1829,28 @@ Comprising of two large double bedrooms, family bathroom, kitchen and generously
 Please call Stirling Ackroyd directly to arrange an appointment.
   ## Fairmont Avenue, New Providence Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,799 pcm
+  - 05/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/86666859#/?channel=RES_LET">Fairmont Avenue, New Providence Wharf, London, E14</a>
+  - JOHNS&CO, New Providence Wharf Logo
 
   Overlooking the River Thames and tranquil communal watergardens, this large two bedroom apartment on the 8th floor of New Providence Wharf has the added bonus coming beautifully furnished. The property comprising a kitchen and living room, two double bedrooms, an ensuite and main bathroom. Floor to ceiling windows and a private balcony from the living room with an abundance of natural light throughout. Finished to a superb standard, the property is not to be missed and will come furnished.
 
 Residents here will also benefit from exceptional leisure facilities including 24-hour concierge, gym + spa as well as a swimming pool. You will find an abundance of amenities on-site and within the local area. Parking is available with this property.
   ## Limeharbour, London, E14 9LU 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/72k/71212/86665143/71212_L17072_FLP_00_0000.jpeg" alt="">
+
+  - £2,750 pcm
+  - 30/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/86665143#/?channel=RES_LET">Limeharbour, London, E14 9LU</a>
+  - Ashley King, Docklands Logo
 
   Well located near to the centre of Canary Wharf, this stylish two bedroomed furnished flat, offering modern lifestyle with a east balcony, 24hrs concierge service and a secure setting on the seventh floor of a popular development. The property comprises sizeable reception room fully refurbished kitchen with smart fitted units with integrated appliances, master bedroom with en-suite shower room, second double bedroom and a chic three piece bathroom suite.Location: City Tower lies moments from Mudchute Park and the Millwall Docks, while a cosmopolitan range of shops and restaurants can be found at the nearby Canary Wharf complex. Crossharbour Station (DLR) is close by and Canary Wharf Underground Station provides the Jubilee lineAvailable: 30th DEC 2023
 Term: Long-term
@@ -1567,7 +1861,14 @@ Council Tax: £1,932.37 2023/24
 EPC Rating: CDisclaimer: Ashley King endeavour to advertise accurate representations of properties in descriptions, virtual tours and floor plans, however, they are intended as a guide only and interested parties must satisfy themselves by undertaking a personal inspection.
   ## Turner House, Canary Central, Isle of Dogs, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/77k/76478/141290474/76478_P67125_FLP_00_0000.jpeg" alt="">
+
+  - £2,513 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141290474#/?channel=RES_LET">Turner House, Canary Central, Isle of Dogs, E14</a>
+  - Chase Evans, Pan Peninsula Logo
 
   This well-designed and bright 2-bed, 2-bath apartment with a balcony is set in a quiet residential enclave a short distance away from the amenities of Canary Wharf. The open-plan living/kitchen features wood flooring and floor-to-ceiling glazing and leads to a generous balcony overlooking the communal square and gardens. The master bedroom is ensuite with a sizeable built-in wardrobe. There is a further double bedroom and a family bathroom. Turner Hosue is part of the contemporary Canary Central development a stroll from the dock and South Quay DLR station. Residents have access to concierge services and modern leisure facilities including a swimming pool, Jacuzzi, sauna and gym.
 
@@ -1580,7 +1881,14 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100
   ## Roosevelt Tower, Manhattan Plaza, Canary Wharf E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/29k/28238/139939361/28238_P66556_FLP_00_0000.jpeg" alt="">
+
+  - £2,708 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/139939361#/?channel=RES_LET">Roosevelt Tower, Manhattan Plaza, Canary Wharf E14</a>
+  - Chase Evans, Canary Wharf Logo
 
   A modern two bedroom, two bathroom apartment. Located within this luxurious development, Manhattan Plaza. The property boasts of living space, with a private balcony. This bright apartment includes an inviting living and dining area, fitted kitchen with integrated appliances, wood flooring, two spacious bedrooms, master with en-suite, stylish bathroom suite and a private balcony.
 
@@ -1592,7 +1900,14 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100
   ## Poplar High Street, London, E14 2 bedroom penthouse
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/181k/180098/141703472/180098_Caraway_FLP_00_0000.jpeg" alt="">
+
+  - £2,250 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141703472#/?channel=RES_LET">Poplar High Street, London, E14</a>
+  - McQueens London, London Logo
 
   Enjoy relaxing in this two bedroom apartment after a hard day's work which is perfect for entertaining family and friends on a spacious terrace overlooking Canary Wharf.
 
@@ -1603,7 +1918,14 @@ There is plenty of space to work from home and for those times you do need to tr
 This home is available now and comes with free underground parking.
   ## Phoenix Heights East, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,450 pcm
+  - 11/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141694439#/?channel=RES_LET">Phoenix Heights East, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1867575.
 
@@ -1643,7 +1965,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Basin Approach, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/15k/14546/140710664/14546_DLL230030_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,491 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/140710664#/?channel=RES_LET">Basin Approach, E14</a>
+  - Hurford Salvi Carr, Docklands Logo
 
   Huford Salvi Carr are favoured as sole agents to market this fourth floor two double bedroom south facing apartment located in the ever popular Basin Approach development.
 
@@ -1654,7 +1983,14 @@ Features include two double bedrooms, dressing room to master suite, family bath
 Available now with parking included. A prompt internal viewing is highly recommended.
   ## Ocean Wharf, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,769 pcm
+  - 09/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141684809#/?channel=RES_LET">Ocean Wharf, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1885891.
 
@@ -1691,13 +2027,27 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Hamilton House, 8 Victory Place, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/66k/65872/141655415/65872_CWQ012361204_FLP_00_0001.png" alt="">
+
+  - £2,444 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141655415#/?channel=RES_LET">Hamilton House, 8 Victory Place, London, E14</a>
+  - Knight Frank - Lettings, Canary  Wharf Logo
 
   Knight Frank are pleased to offer this 2nd floor apartment located within the Victory Place development.   The apartment is set over approximately 72.3 sqm (approximately 778 sq ft) and offers reception room, private terrace, separate fully fitted kitchen, principal bedroom with fitted wardrobes and en suite, second bedroom, guest bathroom and one allocated parking space.  The apartment is offered on a furnished basis.
 Victory Place is located next to the Limehouse Basin and within close proximity of both Limehouse Station (0.3 miles) and Westferry DLR (0.4 miles) providing access to both the City and Canary Wharf. All times and distances are approximate.
   ## Marina Heights Basin Approach London E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/51k/50214/141942176/50214_100088004049_FLP_00_0000.png" alt="">
+
+  - £2,350 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141942176#/?channel=RES_LET">Marina Heights Basin Approach London E14</a>
+  - Campbell Residential, Docklands Logo
 
   Spectacular two double bedroom spacious furnished apartment offering wonderful unspoilt views of Limehouse Marina located in the sought after development Marina Heights.
 
@@ -1717,7 +2067,14 @@ DISCLAIMER: Campbell Residential endeavour to advertise accurate representations
 Measurements are approximate. No responsibility is taken for error or omission or miss statement in these particulars, which do not constitute an offer or contract. No representation of warranty is made or given.
   ## Indescon Square, Canary Wharf, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/53k/52518/141844805/52518_CWL100311_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,500 pcm
+  - 20/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141844805#/?channel=RES_LET">Indescon Square, Canary Wharf, London, E14</a>
+  - Life Residential, Canary Wharf Office - Lettings Logo
 
   When you get a spare moment you'll want to come and see this 2 bedroom, 2 bathroom apartment. The apartment sits on a high floor of the Indescon Square development where you can sit back and relax on your own private balcony after a long day at the office. 
 
@@ -1726,7 +2083,14 @@ Enjoy your own paradise of comfort and modernity in the open plan kitchen and li
 Sometimes living in the city can be pretty noisy, but living here offers a moment of rare tranquillity amongst the popular business districts, with no busy roads outside your door. The local area provides you with close by shops as well as all the amenities Canary Wharf has to offer. The 24hr concierge are always on hand to help you collect parcels or even just to make you feel safe whilst walking around the development. Situated only 0.5 miles from Canary Wharf Tube station and 0.4 miles from South Quay DLR, commuting to work, whether you work in Canary Wharf itself or the City, is easy.
   ## Roosevelt Tower, London E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/213k/212327/86656566/212327_P146308_FLP_00_0000.jpeg" alt="">
+
+  - £2,752 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/86656566#/?channel=RES_LET">Roosevelt Tower, London E14</a>
+  - JLL, Canary Wharf Logo
 
   The curved open plan living room benefits from a fully fitted kitchen with integrated Smeg appliances. The bathrooms are made with designer bathroom suites, bespoke built in storage, large vanity mirror and tower rails. Underfloor heating keeps you warm in winter. Owner occupied prior, newly renovated in September 2023.
 
@@ -1739,7 +2103,14 @@ As well as paying the rent, you may also be required to make the following permi
 Please visit jll.co.uk/fees for details of fees which may be payable when renting a property
   ## Newport Ave, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,197 pcm
+  - 28/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/68741964#/?channel=RES_LET">Newport Ave, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   We are pleased to offer this immaculate two bedroom, two bathroom property situated in the peaceful residential area of Newport Avenue.
 
@@ -1750,21 +2121,42 @@ Secure parking available for an additional £100 per month
 This property is available with a Deposit Free option which means that instead of paying a traditional five weeks security deposit, you pay a fee of one weeks rent + VAT (subject to a minimum of £120 + VAT) to become a member of a deposit free renting scheme which significantly reduces the up-front costs. This fee is non-refundable and is not a deposit so cannot be used towards covering the cost of any future damage.
   ## Undine Road, Canary Wharf 2 bedroom maisonette
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/199k/198539/141582617/198539_32702567_FLP_00_0000.jpeg" alt="">
+
+  - £2,097 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141582617#/?channel=RES_LET">Undine Road, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A recently refurbished and well presented two bedroom maisonette with dock views. The property benefits from a modern separate kitchen and has a large reception area with direct access to a private patio.
 
 Forming part of the popular Clippers Quay development, this apartment is extremely well located being just 0.2 miles to Mudchute DLR allowing for quick and easy access into Canary Wharf, Greenwich and The City.
   ## Undine Road, Canary Wharf 2 bedroom maisonette
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/141315914/82537_32688649_FLP_00_0000.jpeg" alt="">
+
+  - £2,097 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141315914#/?channel=RES_LET">Undine Road, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A recently refurbished and well presented two bedroom maisonette with dock views. The property benefits from a modern separate kitchen and has a large reception area with direct access to a private patio.
 
 Forming part of the popular Clippers Quay development, this apartment is extremely well located being just 0.2 miles to Mudchute DLR allowing for quick and easy access into Canary Wharf, Greenwich and The City.
   ## Caraway Heights, Poplar, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/210k/209807/141631718/209807_CDL170436_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,000 pcm
+  - 02/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141631718#/?channel=RES_LET">Caraway Heights, Poplar, London, E14</a>
+  - Stirling Ackroyd Lettings, Canary Wharf Logo
 
   Presenting a recently refurbished, third floor 881 sq. ft. apartment just 2 minutes' walk from Blackwall DLR. Benefiting from private balcony space facing Canary Wharf & brand new kitchen.
 
@@ -1775,7 +2167,14 @@ Stilring Ackroyd are the sole appointed agent for this property, please call us 
 Available with alternative deposit option.
   ## Hertsmere Road, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/264k/263693/141204230/263693_10HorizonBuilding_FLP_00_0000.png" alt="">
+
+  - £2,800 pcm
+  - 29/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141204230#/?channel=RES_LET">Hertsmere Road, London, E14</a>
+  - Madley Property, Surrey Quays Logo
 
   Light & spacious two bedroom, two bathroom apartment set on the fifth floor of the Horizon Building, Canary Wharf. Featuring large floor-ceiling glazing, wood flooring, integrated modern kitchen and plenty of storage space, the apartment comprises an open plan kitchen/ living room extending onto a large private balcony, master ensuite, a further double bedroom and a family bathroom suite.
 
@@ -1785,7 +2184,14 @@ EPC - B
 Council band - G
   ## Gainsborough House, Cassilis Road, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/67k/66685/140923115/66685_32663386_FLP_00_0000.gif" alt="">
+
+  - £2,450 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140923115#/?channel=RES_LET">Gainsborough House, Cassilis Road, London, E14</a>
+  - Franklyn James, Westferry Logo
 
   Nestled in the sought-after Canary Central development, this stunning two-bedroom, two-bathroom ground floor apartment boasts a spacious entrance hallway with ample storage, a large living room with floor-to-ceiling windows, and a thoughtfully designed open-plan kitchen that maximizes workspace and storage for your convenience.
 
@@ -1794,14 +2200,28 @@ With a round-the-clock concierge service, your packages are always safe and soun
 Conveniently located just a 10-minute stroll from Canary Wharf and a mere 3-minute walk from the South Quay DLR station
   ## 1 Fairmont Avenue London E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/58k/57124/141604553/57124_P212548_FLP_00_0000.jpeg" alt="">
+
+  - £2,700 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141604553#/?channel=RES_LET">1 Fairmont Avenue London E14</a>
+  - Cluttons, Wapping - Lettings Logo
 
   The apartment has a spacious open plan reception room with access to a large terrace with spectacular river views, separate fitted kitchen, two double bedrooms (one within en-suite) and modern main bathroom. The property is available furnished and has been well maintained throughout. The apartment also comes with secure parking.
 
 New Providence Wharf Development offers a 24 hour concierge service, secure parking, leisure facilities which include a sauna, swimming pool and gym. It is also close to all the amenities of Docklands with its many exciting shops, bars, restaurants exhibitions.
   ## Ferguson Close, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,200 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140822861#/?channel=RES_LET">Ferguson Close, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1855211.
 
@@ -1839,21 +2259,43 @@ Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7
   ## Dunbar Wharf, 
 126-134 Narrow Street, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/44k/43310/141928682/43310_CWL040004_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,650 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141928682#/?channel=RES_LET">Dunbar Wharf, 
+126-134 Narrow Street, E14</a>
+  - Chestertons Estate Agents, Canary Wharf & Docklands Lettings Logo
 
   A spacious apartment ideally located in the sought after Limehouse area of Canary Wharf. Comprising 2 bedrooms, 2 bathrooms, spacious reception & fully fitted kitchen the apartment also boasts side River views. The development is located walking distance from Canary Wharf and all the local amenities of Narrow Street. EPC rating C
 
 Our China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsChinaDesk)
   ## Edison Building, 20 Westferry Road, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/67k/66685/141533606/66685_32699472_FLP_00_0000.jpeg" alt="">
+
+  - £2,500 pcm
+  - 21/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141533606#/?channel=RES_LET">Edison Building, 20 Westferry Road, E14</a>
+  - Franklyn James, Westferry Logo
 
   Enjoy stunning views of the Thames and London skyline from the comfort of your own living room situated on the top of the fourth floor. Located in one of E14’s most desirable developments is this spacious two double bedroom apartment. Accommodation comprises main entrance lobby with entry phone system, entrance hall, large reception room with separate modern kitchen/diner, master bedroom with en suite shower room and built in wardrobes, second double bedroom and main bathroom. 
 
 Further benefits include an allocated parking space, communal gardens, 24 hour concierge and residents gym. Located just a few minutes from Canary Wharf which provides a selection of restaurants and bars. The Jubilee tube line and DLR stations offer superb links into all major parts of the capital.
   ## Pierpoint Building, Westferry Road, Canary Wharf E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/50k/49922/141589124/49922_P66501_FLP_00_0000.jpeg" alt="">
+
+  - £2,600 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141589124#/?channel=RES_LET">Pierpoint Building, Westferry Road, Canary Wharf E14</a>
+  - Chase Evans, Docklands Logo
 
   A very spacious two double bedroom, two bathroom apartment on the ground floor of the Pierpoint Building within the gated Millennium Harbour development. The apartment includes a spacious living area, separate fitted kitchen with integrated appliances, wood flooring, great amounts of storage space and modern bathroom décor. 
 
@@ -1865,7 +2307,14 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100
   ## Arnhem Wharf, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,500 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141503348#/?channel=RES_LET">Arnhem Wharf, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1789157.
 
@@ -1899,7 +2348,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## St Davids Square, Isle of Dogs, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,730 pcm
+  - 03/01/2024
+  - <a href="https://www.rightmove.co.uk/properties/141479477#/?channel=RES_LET">St Davids Square, Isle of Dogs, E14</a>
+  - Chase Evans, Docklands Logo
 
   This modern two-bedroom, two-bathroom apartment with a balcony and river views is set in St Davids Square, a sought-after riverside development close to Island Gardens DLR Station and the Greenwich Foot Tunnel. The apartment comprises a bright dual-aspect living room, a separate kitchen with integrated appliances, two ample bedrooms and two modern bathrooms. 
 
@@ -1911,7 +2367,14 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100
   ## Royal Captain Court, Blackwall Reach, Canary Wharf E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/29k/28238/141464270/28238_P67187_FLP_00_0000.jpeg" alt="">
+
+  - £2,600 pcm
+  - 19/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141464270#/?channel=RES_LET">Royal Captain Court, Blackwall Reach, Canary Wharf E14</a>
+  - Chase Evans, Canary Wharf Logo
 
   A luxury two bedroom apartment in this brand new ground-breaking development in E14. Comprising large living/dining area, fitted kitchen with integrated appliances, private winter garden, two sizable bedrooms with fitted wardrobes, master en suite and pristine bathroom suite.
 
@@ -1924,7 +2387,15 @@ The Property Ombudsman Scheme, Membership No: T02100
   ## Manchester Road, 
 Cubitt Town, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/44k/43310/141462806/43310_CWL160042_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,496 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141462806#/?channel=RES_LET">Manchester Road, 
+Cubitt Town, E14</a>
+  - Chestertons Estate Agents, Canary Wharf & Docklands Lettings Logo
 
   A large two double bedroom apartment in the Pierhead Lock development. The property comprises of two double bedrooms, reception with access to private balcony with river views and bathroom and is available fully furnished. Only a short walk to South Quay DLR. EPC rating C.
 
@@ -1932,7 +2403,15 @@ Our China Desk is here for you, if Chinese is your preferred language, please ge
   ## New Providence Wharf, 
 Fairmont Avenue, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/44k/43310/141266033/43310_CWL230413_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,750 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141266033#/?channel=RES_LET">New Providence Wharf, 
+Fairmont Avenue, E14</a>
+  - Chestertons Estate Agents, Canary Wharf & Docklands Lettings Logo
 
   Luxury two bedroom apartment set on the 9th floor in New Providence Wharf. With direct river views, the apartments boasts a spacious reception room with balcony, modern kitchen, two double bedrooms and two sleek bathrooms. 24hr concierge & gym.
 
@@ -1940,14 +2419,29 @@ Our China Desk is here for you, if Chinese is your preferred language, please ge
   ## New Providence Wharf, 
 Fairmont Avenue, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/44k/43310/141795158/43310_CWL230430_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,750 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141795158#/?channel=RES_LET">New Providence Wharf, 
+Fairmont Avenue, E14</a>
+  - Chestertons Estate Agents, Canary Wharf & Docklands Lettings Logo
 
   Modern two bedroom apartment set on the 6th floor in New Providence Wharf. With direct river views, the apartments boasts a spacious reception room with balcony, modern kitchen, two double bedrooms and two sleek bathrooms. 24hr concierge & gym.
 
 Our China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsChinaDesk)
   ## Luralda Wharf, Canary Wharf 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,100 pcm
+  - 18/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141457178#/?channel=RES_LET">Luralda Wharf, Canary Wharf</a>
+  - Oakland Estates, Barkingside Logo
 
   Situated within the sought after Luralda Wharf, only minutes away from Isle Gardens Station and surrounded by amenities, is this newly decorated two bedroom second floor apartment. This spacious property comprises of a large open plan kitchen and living space, two generous double bedrooms and a modern bathroom. 
 
@@ -1959,7 +2453,14 @@ Council Tax Band: F
  Tenancy Length: Minimum 12 months (break clause considered on request)
   ## Lime Kiln Wharf, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/97k/96668/141448814/96668_188078930102023_FLP_00_0000.jpeg" alt="">
+
+  - £2,300 pcm
+  - 01/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141448814#/?channel=RES_LET">Lime Kiln Wharf, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1880789.
 
@@ -2005,14 +2506,28 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Manchester Road, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/141428126/82537_32694117_FLP_00_0000.jpeg" alt="">
+
+  - £2,496 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141428126#/?channel=RES_LET">Manchester Road, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A well-proportioned two bedroom apartment set within a riverside development in Canary Wharf. Recently refurbished with new wooden flooring and redecorated throughout. The property is offered furnished with parking available by negotiation.
 
 Pierhead Lock is a gated complex near to South Quay DLR Station and within easy reach of the shops, bars, restaurants of Canary Wharf, which also has access to the Jubilee Line and Cross Rail services.
   ## Caledonian Wharf, London, E14 2 bedroom terraced house
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/123k/122146/141367991/122146_102299001283_FLP_00_0000.png" alt="">
+
+  - £2,200 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141367991#/?channel=RES_LET">Caledonian Wharf, London, E14</a>
+  - Chanin Estates, London Logo
 
   Chanin Estates are proud to present this mid-terraced house that offers generous living space, this excellent two bedroom house has a light and contemporary interior.
 
@@ -2027,19 +2542,40 @@ Call now to book in a viewing. 
 AvailableNow.
   ## Studley Court, 5 Prime Meridian Walk, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/26k/25055/141357884/25055_AOS210098_L_FLP_00_0000.jpeg" alt="">
+
+  - £2,100 pcm
+  - 09/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141357884#/?channel=RES_LET">Studley Court, 5 Prime Meridian Walk, London, E14</a>
+  - Keatons, Bow Logo
 
   A large two-bedroom, two-bathroom apartment situated on 6th floor offering direct views over the River Thames. The property comprises of a separate kitchen, two large double bedrooms, a large private balcony and a 24-hour concierge service and off-street parking. Ideally located for commuters with it being walking distance to East India DLR station.
 
 Council Tax Band E
   ## Limeharbour, 3 Limeharbour, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,350 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141309167#/?channel=RES_LET">Limeharbour, 3 Limeharbour, E14</a>
+  - One Move Group, London Logo
 
   One Move Group is delighted to present this magnificent twobedroom, two-bathroom apartment that offers both spaciousness and modern design, boasting splendid city views of Canary Wharf. Located just a stone's throw away from Crossharbour Station (DLR) and mere minutes from Canary Wharf Station (Jubilee Line/DLR), this 5th floor apartment is a true gem.Step inside to find an inviting open-plan kitchen and reception area, perfect for entertaining guests. The apartment features a generously sized family bathroom, while the master bedroom comes with an en-suite bathroom, providing convenience and privacy. Additionally, there is a second well-proportioned double bedroom, with both the reception area and master bedroom enjoying access to their separate balconies.Residents of this development can take advantage of the fantastic amenities, including 24-hour concierge service for added convenience and peace of mind. Moreover, exclusive communal gardens offer a tranquil escape within the bustling city.
   ## Newport Ave, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,197 pcm
+  - 28/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/68741964#/?channel=RES_LET">Newport Ave, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   We are pleased to offer this immaculate two bedroom, two bathroom property situated in the peaceful residential area of Newport Avenue.
 
@@ -2050,28 +2586,56 @@ Secure parking available for an additional £100 per month
 This property is available with a Deposit Free option which means that instead of paying a traditional five weeks security deposit, you pay a fee of one weeks rent + VAT (subject to a minimum of £120 + VAT) to become a member of a deposit free renting scheme which significantly reduces the up-front costs. This fee is non-refundable and is not a deposit so cannot be used towards covering the cost of any future damage.
   ## Westferry Road, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/199k/198539/140994788/198539_32668073_FLP_00_0000.jpeg" alt="">
+
+  - £2,600 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/140994788#/?channel=RES_LET">Westferry Road, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A well presented two bedroom apartment on the 16th floor of Cascades Tower. This property has two double bedrooms, two bathrooms and a balcony facing the Thames.
 
 Cascades Tower is moments from the shops, bars and restaurants of Westferry Circus, including the popular Royal China.
   ## Westferry Road, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/140708987/82537_32631937_FLP_00_0000.jpeg" alt="">
+
+  - £2,600 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/140708987#/?channel=RES_LET">Westferry Road, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A well presented two bedroom apartment on the 16th floor of Cascades Tower. This property has two double bedrooms, two bathrooms and a balcony facing the Thames.
 
 Cascades Tower is moments from the shops, bars and restaurants of Westferry Circus, including the popular Royal China.
   ## Ability Place, 37 Millharbour, Canary Wharf London E14 9HB 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,695 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140465612#/?channel=RES_LET">Ability Place, 37 Millharbour, Canary Wharf London E14 9HB</a>
+  - Century 21 Heritage, Newham Logo
 
   Century 21 Heritage is proud to present this modern and contemporary two bedroom apartment located on the first floor of Ability Place. Spanning an approximate 835 square feet, this apartment offers spacious living, access to a private balcony, walking distance to local amenities around Canary Wharf and is within a short walk away from South Quay DLR Station.
 
 Well sized apartment located on the first floor of Ability Place in Millharbour. Offering an approximate 835 square feet, the accommodation comprises of living area with built in wardrobe, fully fitted kitchen with integrated appliances such as fridge/freezer, hob, dishwasher and built-in microwave and bathroom suite with access to private balcony.Ability Place offers lift access to all floors, and entry-phone system to all apartments. The development benefits from concierge service and resident's gym. Millharbour is located in the residential area of Canary Wharf with is wealth of shops, restaurants and bars within walking distance. The nearest station is South Quay DLR with its links into the City, Central and South London. Resident's are also a short walk away from Canary Wharf Station which offers Jubilee Line services towards North West and East London and DLR services to Central London.
   ## Royal Captain Court, 26 Arniston Way, Greater London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/80k/79351/141271877/79351_371_FLP_00_0000.png" alt="">
+
+  - £2,700 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141271877#/?channel=RES_LET">Royal Captain Court, 26 Arniston Way, Greater London, E14</a>
+  - Hera Management Services, Billericay Logo
 
   This twobedroom apartment is finished to the highest specification designed to provide luxurious comfort. As well as two double bedrooms, an en suite and family bathroom the property also boasts a stunning winter garden area.
 
@@ -2105,7 +2669,14 @@ A deposit equivalent to 5 weeks rent will be held to protect your landlord shoul
 A deposit of 5 weeks rent, minus your holding deposit and the first month’s rent in advance will be due prior to move in to the property.
   ## Boardwalk Place, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82831/140717669/82831_8333_FLP_00_0000.jpeg" alt="">
+
+  - £2,650 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140717669#/?channel=RES_LET">Boardwalk Place, London, E14</a>
+  - The Online Letting Agents Ltd, Bury St Edmunds Logo
 
   This spacious apartment is in excellent condition throughout and has more than 900sqft of living space with all principal rooms facing towards the Marina.
 
@@ -2134,7 +2705,14 @@ Reference: 008333
 Please note, by submitting an enquiry regarding this property you agree that we may send your details to the landlord of this property so they may contact you in order to answer any questions, or arrange a convenient viewing time. STRICTLY NO AGENT OR SUB-LETTING CALLS.
   ## Proton Tower, 8 Blackwall Way, London, E14 9GN 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,300 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141220880#/?channel=RES_LET">Proton Tower, 8 Blackwall Way, London, E14 9GN</a>
+  - Domeview Properties, London Logo
 
   Domeview Properties are delighted to offer this 2 double bedroom apartment in the popular Proton Tower development in East India. 
 
@@ -2143,7 +2721,14 @@ The apartment comprises, 2 double bedrooms, 2 bathrooms, (1 ensuite), fully inte
 The Proton Tower development is A popular choice for professionals working in Canary Wharf and Docklands which is just 10-12 minutes walk from the property or a short trip on the DLR.
   ## Westferry Road, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,575 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141209537#/?channel=RES_LET">Westferry Road, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1874057.
 
@@ -2177,7 +2762,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Langbourne Place, Westferry Road, Docklands E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/50k/49922/141161894/49922_P67091_FLP_00_0001.jpeg" alt="">
+
+  - £2,102 pcm
+  - 18/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141161894#/?channel=RES_LET">Langbourne Place, Westferry Road, Docklands E14</a>
+  - Chase Evans, Docklands Logo
 
   A two double bedroom, two bathroom furnished apartment set within a gated development located near the River Thames. This apartment includes a spacious living area, separate fitted kitchen with integrated appliances, wood flooring, electric heating, and bathroom tiling. 
 
@@ -2189,7 +2781,14 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100
   ## Pierpoint Apartment, Westferry Road, London, E14 8NQ 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,700 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/70208099#/?channel=RES_LET">Pierpoint Apartment, Westferry Road, London, E14 8NQ</a>
+  - Zuker Property Ltd, Birmingham Logo
 
   **Available 2nd October**
 
@@ -2202,7 +2801,14 @@ The development is gated with 24 hour concierge and luxurious leisure facilities
 Zuker Property now provides bills all inclusive option for each tenancy, these can include (if applicable) water, electricity, gas, broadband, TV licence. Council tax is still payable by the tenants themselves.
   ## Boardwalk Place, Canary Wharf E14 5GD 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,600 pcm
+  - 06/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/141132947#/?channel=RES_LET">Boardwalk Place, Canary Wharf E14 5GD</a>
+  - Chase Evans, Canary Wharf Logo
 
   Wonderful waterside two bedroom, two bathroom apartment with a balcony in a contemporary development overlooking Blackwall Basin in Canary Wharf. The apartment comprises a fully integrated kitchen, ample living room, a master bedroom with an en suite bathroom, a further double bedroom and a bathroom. 
 
@@ -2214,12 +2820,26 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100ted just a short walk from Canary Wharf and surrounding transport links.
   ## Queens Court, Limehouse, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,500 pcm
+  - 29/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141517493#/?channel=RES_LET">Queens Court, Limehouse, E14</a>
+  - Franklyn James, Limehouse and Wapping Logo
 
   A bright and spacious two double bedroom two bathroom apartment in this desirable Limehouse development located just off Narrow Street. The property is offered furnished and benefits from impressive park views, three balconies and parking. The spacious lounge has floor to ceiling windows, the kitchen is fully fitted and there is ample storage throughout. Both bathrooms have been updated and there is wood flooring throughout. Brightlingsea Place is within walking distance to either Limehouse or Westferry DLR and Canary Wharf is also within close proximity.
   ## Roy Square London E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/58k/57124/141090248/57124_P212497_FLP_00_0000.jpeg" alt="">
+
+  - £2,275 pcm
+  - 13/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141090248#/?channel=RES_LET">Roy Square London E14</a>
+  - Cluttons, Wapping - Lettings Logo
 
   An exceptionally well presented two bedroom apartment located in a gated development on Narrow Street, Limehouse.
 The apartment comprises; bright open-plan living area with modern integrated kitchen with access to a large balcony, large separate bathroom, two double bedrooms, with one having access to a balcony over looking the communal gardens.
@@ -2227,7 +2847,14 @@ The apartment comprises; bright open-plan living area with modern integrated kit
 The Watergardens benefits from gated security and communal gardens. Narrow Street offers access to Canary Wharf and The City via the Thames Path and DLR. There is also a selection of river fronted bars and restaurants.
   ## Pierpoint Building, 16 Westferry Road, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/48k/47285/140873678/47285_000801568_FLP_00_0000.jpeg" alt="">
+
+  - £2,600 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140873678#/?channel=RES_LET">Pierpoint Building, 16 Westferry Road, London, E14</a>
+  - John D Wood & Co, Docklands & City, Docklands & City Logo
 
   Discover the epitome of modern urban living in this elegant 2-bedroom apartment located in the sought-after Pierpoint development in E14. This contemporary residence offers a combination of comfort and convenience.
 
@@ -2245,28 +2872,56 @@ Secure Living: Security features within the development offer peace of mind to i
 This 2-bedroom apartment in Pierpoint, E14, is the perfect choice for professionals, couples, or small families looking for a stylish and convenient place to call home. To experience the height of contemporary living, contact us today to schedule a viewing. Council Tax Band:  Holding Deposit: £600.00
   ## Westferry Circus, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/56k/55234/140253518/55234_BCRE51A_FLP_00_0000.png" alt="">
+
+  - £2,800 pcm
+  - 17/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/140253518#/?channel=RES_LET">Westferry Circus, London, E14</a>
+  - Tower Quay Limited, London Logo
 
   Fantastic two double bedroom, two bathroom apartment on the 5th floor this popular development with concierge. Apartments comes with one secure underground parking space. Furnished/Unfurnished. Available 17th November 2023
 
 Early viewings highly recommended.
   ## Meridian Place, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,197 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141590933#/?channel=RES_LET">Meridian Place, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A bright two bedroom apartment on the first floor of this sought after development. This large apartment has two bathrooms, ample storage and a private balcony.
 
 Meridian Place is moments away from the bars and restaurants of South Quay, including the popular Lotus Floating Restaurant.
   ## Selsdon Way, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,535 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141032294#/?channel=RES_LET">Selsdon Way, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A two bedroom apartment in City Harbour. This property has two double bedrooms, two bathrooms, a private balcony, open plan reception and comes furnished.
 
 City Harbour is within walking distance of the Mudchute farm, the Docklands sailing centre and all local shops, bars and Restaurants in central Canary Wharf.
   ## Lowry House, Cassilis Road, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/88k/87187/140928320/87187_30271_FLP_00_0000.jpeg" alt="">
+
+  - £2,550 pcm
+  - 08/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/140928320#/?channel=RES_LET">Lowry House, Cassilis Road, E14</a>
+  - Regent Letting and Property Management, London Logo
 
   Regent are pleased to present this smart property enjoys a premier Docklands location within walking-distance of Canary Wharf. 
 
@@ -2279,7 +2934,14 @@ Lowry House is a gated development a mere seven-minute walk away from South Quay
 Regent Property comply with the Tenant Fees Act 2019 and are members of The Property Ombudsman scheme. Our Client Money Protection is provided by the UKALA Total Loss CMP scheme. For more information please visit our website   or call our office on  .
   ## Dundee Wharf, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,750 pcm
+  - 15/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/140884673#/?channel=RES_LET">Dundee Wharf, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1827246.
 
@@ -2325,7 +2987,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## New Providence Wharf, Canary Wharf, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/49k/48101/86654475/48101_1258106_FLP_00_0000.png" alt="">
+
+  - £2,579 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86654475#/?channel=RES_LET">New Providence Wharf, Canary Wharf, London, E14</a>
+  - Foxtons, Canary Wharf Logo
 
   LONG LET. Set within the fabulous, riverside New Providence Wharf development, this stunning two bedroom flat benefits from wood floors throughout, stylish, contemporary décor, balcony with far-reaching views and concierge.
 
@@ -2334,7 +3003,14 @@ New Providence Wharf is ideally located for the Canary Wharf business district a
 Please use the reference CHPK0134781 when contacting Foxtons.
   ## Naxos Building, Hutching Street, Canary Wharf, South Quay, London, E14 8JR 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,383 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86643396#/?channel=RES_LET">Naxos Building, Hutching Street, Canary Wharf, South Quay, London, E14 8JR</a>
+  - Jack Barclay Estates, London Logo
 
   Jack Barclay Estates London are offering an impressive 2 bedroom 1 bathroom apartment with riverside views in the ever growing Naxos Building Development on Millenium Harbour, Canary Wharf, E14.
 This spectacular apartment comprises of a generous lounge area, two stunning double bedrooms, two bathrooms, a balcony, the apartment is finished to good standard throughout including a high spec'ed kitchen which has integrated kitchen appliances also include communal facilities such as gym, steam room, sauna and A library.
@@ -2343,21 +3019,43 @@ Naxos Tower is situated along Westferry Road and is only a short walk away from 
   ## Arnhem Wharf, 
 2 Arnhem Place, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,400 pcm
+  - 21/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141179828#/?channel=RES_LET">Arnhem Wharf, 
+2 Arnhem Place, E14</a>
+  - Chestertons Estate Agents, Canary Wharf & Docklands Lettings Logo
 
   This spacious two bedroom flat located on a quiet Riverside development offers a contemporary interior and fabulous views over the London skyline and across the River Thames from its private balcony.
 
 Our China Desk is here for you, if Chinese is your preferred language, please get in touch via WeChat (ChestertonsChinaDesk)
   ## Selsdon Way, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,535 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86616777#/?channel=RES_LET">Selsdon Way, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A two bedroom apartment in City Harbour. This property has two double bedrooms, two bathrooms, a private balcony, open plan reception and comes furnished.
 
 City Harbour is within walking distance of the Mudchute farm, the Docklands sailing centre and all local shops, bars and Restaurants in central Canary Wharf.
   ## Gainsborough House, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,575 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/86310777#/?channel=RES_LET">Gainsborough House, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1836452.
 
@@ -2396,7 +3094,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Leyland House, Hale Street, Poplar, East India Dock, London, E14 0BT 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,232 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86519178#/?channel=RES_LET">Leyland House, Hale Street, Poplar, East India Dock, London, E14 0BT</a>
+  - Jack Barclay Estates, London Logo
 
   Jack Barclay Estate London are happy to offer a spacious 2 double bedroom apartment in Canary Wharf one bathroom and separate kitchen to lounge. 
 The property has been refurnished to a high standard.
@@ -2409,35 +3114,70 @@ O2 Arena is 3.1 miles
 The nearest airport is London City Airport, 3.7 miles
   ## Westferry Circus, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/56k/55234/140253518/55234_BCRE51A_FLP_00_0000.png" alt="">
+
+  - £2,800 pcm
+  - 17/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/140253518#/?channel=RES_LET">Westferry Circus, London, E14</a>
+  - Tower Quay Limited, London Logo
 
   Fantastic two double bedroom, two bathroom apartment on the 5th floor this popular development with concierge. Apartments comes with one secure underground parking space. Furnished/Unfurnished. Available 17th November 2023
 
 Early viewings highly recommended.
   ## Meridian Place, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,197 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/141591593#/?channel=RES_LET">Meridian Place, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A bright two bedroom apartment on the first floor of this sought after development. This large apartment has two bathrooms, ample storage and a private balcony.
 
 Meridian Place is moments away from the bars and restaurants of South Quay, including the popular Lotus Floating Restaurant.
   ## Arden Crescent, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/199k/198539/86508954/198539_32650627_FLP_00_0000.jpeg" alt="">
+
+  - £2,097 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86508954#/?channel=RES_LET">Arden Crescent, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A bright two bedroom apartment on the second floor of this dockside development. This apartment has open plan reception room, a private balcony and breathtaking views.
 
 Quay View is situated half a mile from Mudchute DLR and less than a mile from the bars, restaurants, shopping, facilities and offices at Canary Wharf.
   ## Arden Crescent, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/86507448/82537_32650521_FLP_00_0000.jpeg" alt="">
+
+  - £2,097 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86507448#/?channel=RES_LET">Arden Crescent, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A bright two bedroom apartment on the second floor of this dockside development. This apartment has open plan reception room, a private balcony and breathtaking views.
 
 Quay View is situated half a mile from Mudchute DLR and less than a mile from the bars, restaurants, shopping, facilities and offices at Canary Wharf.
   ## 41 Millharbour, London, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,700 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140095199#/?channel=RES_LET">41 Millharbour, London, E14</a>
+  - The Online Letting Agents Ltd, Bury St Edmunds Logo
 
   **GAS, WATER & HEATING INCLUDED**
 
@@ -2482,7 +3222,14 @@ Reference: 006612
 Please note, by submitting an enquiry regarding this property you agree that we may send your details to the landlord of this property so they may contact you in order to answer any questions, or arrange a convenient viewing time. STRICTLY NO AGENT OR SUB-LETTING CALLS.
   ## Exmouth House, Cahir Street, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/78k/77148/116690603/77148_2001649_FLP_00_0000.jpeg" alt="">
+
+  - £2,000 pcm
+  - 20/11/2024
+  - <a href="https://www.rightmove.co.uk/properties/116690603#/?channel=RES_LET">Exmouth House, Cahir Street, London, E14</a>
+  - Alliance London, London Logo
 
   Alliance London a pleased to bring to the market a spacious two double bedroom first floor flat within a purpose-built block close to the river Thames and a plethora of Isle of Dogs and Canary Wharf amenities and benefits from neutral decor and Juliet balcony.
 
@@ -2493,21 +3240,42 @@ To the outside of the property there is a development with residents parking and
 The property offers double glazing and gas central heating throughout, excellent storage. The property comprises of an open plan entrance hall with storage and computer room, modern bathroom, two double bedrooms (one with wardrobe), large open plan living/dining room and a spacious kitchen/breakfast room with storage.
   ## Arnhem Place, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/199k/198539/86426430/198539_32645504_FLP_00_0000.jpeg" alt="">
+
+  - £2,700 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86426430#/?channel=RES_LET">Arnhem Place, Canary Wharf</a>
+  - Waterview, Waterview Shad Thames Logo
 
   A bright two bedroom apartment on the third floor of this secure, gated development. This river facing apartment has a private balcony, large reception room and benefits from recently updated fittings.
 
 New Atlas Wharf is moments from the amenities of Canary Wharf. The shops, bars and restaurants of West India Quay are also close by. Crossharbour DLR is 0.6 miles from the property and offers direct travel into Bank via Canary Wharf in 15 minutes.
   ## Arnhem Place, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/86424996/82537_32645445_FLP_00_0000.jpeg" alt="">
+
+  - £2,700 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/86424996#/?channel=RES_LET">Arnhem Place, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   A bright two bedroom apartment on the third floor of this secure, gated development. This river facing apartment has a private balcony, large reception room and benefits from recently updated fittings.
 
 New Atlas Wharf is moments from the amenities of Canary Wharf. The shops, bars and restaurants of West India Quay are also close by. Crossharbour DLR is 0.6 miles from the property and offers direct travel into Bank via Canary Wharf in 15 minutes.
   ## 1 Fairmont Avenue London E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/58k/57124/140613353/57124_P212436_FLP_00_0000.jpeg" alt="">
+
+  - £2,800 pcm
+  - 17/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/140613353#/?channel=RES_LET">1 Fairmont Avenue London E14</a>
+  - Cluttons, Wapping - Lettings Logo
 
   The apartment has a spacious open plan reception room with access to a large terrace with spectacular river views, separate fitted kitchen, two double bedrooms (one within en-suite) and modern main bathroom. The property is available furnished and has been well maintained throughout. Property also comes with secure parking.
 
@@ -2515,7 +3283,14 @@ New Atlas Wharf is moments from the amenities of Canary Wharf. The shops, bars a
 New Providence Wharf Development offers a 24 hour concierge service, secure parking, leisure facilities which include a sauna, swimming pool and gym. It is also close to all the amenities of Docklands with its many exciting shops, bars, restaurants exhibitions.
   ## Boardwalk Place, Canary Wharf E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/29k/28238/86360163/28238_P66937_FLP_00_0000.jpeg" alt="">
+
+  - £2,600 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/86360163#/?channel=RES_LET">Boardwalk Place, Canary Wharf E14</a>
+  - Chase Evans, Canary Wharf Logo
 
   Wonderful waterside two bedroom, two bathroom apartment with a balcony in a contemporary development overlooking Blackwall Basin in Canary Wharf. The apartment comprises a fully integrated kitchen, ample living room, a master bedroom with an en suite bathroom, a further double bedroom and a bathroom. 
 
@@ -2527,7 +3302,14 @@ Client Money Protection (CMP) provided by: UKALA
 The Property Ombudsman Scheme, Membership No: T02100
   ## Horizons Tower, Canary Wharf, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,495 pcm
+  - 22/12/2023
+  - <a href="https://www.rightmove.co.uk/properties/140785520#/?channel=RES_LET">Horizons Tower, Canary Wharf, E14</a>
+  - The Property Company, Crouch End Logo
 
   The Property Company are delighted to offer this stunning apartment in Horizons Tower in Canary Wharf E14. 
 
@@ -2538,7 +3320,14 @@ The property is offered largely furnished and exclusive of all bills. contact ou
 Tenancy Length: 12-36 Months (subject to negotiation)
   ## 9 Province Square, Canary Wharf, London 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/236k/235565/140775707/235565_32636926_FLP_00_0000.jpeg" alt="">
+
+  - £2,500 pcm
+  - 18/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/140775707#/?channel=RES_LET">9 Province Square, Canary Wharf, London</a>
+  - Love Your Home, Temple Hill Logo
 
   With 2 bedrooms, an open plan kitchen and living room, 2 bathrooms and is situated on the 15th floor with Canary Wharf and dock views.
 
@@ -2549,14 +3338,28 @@ Available 17th November.
 Walking distance to Blackwall DLR station and into the Canary Wharf estate, where you'll find bars, restaurants, shops and the Elizabeth Line/DLR and Jubilee line stations.
   ## Fairmont Avenue, Canary Wharf 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/83k/82537/140765339/82537_32636351_FLP_00_0000.jpeg" alt="">
+
+  - £2,799 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/140765339#/?channel=RES_LET">Fairmont Avenue, Canary Wharf</a>
+  - Dexters, Canary Wharf Logo
 
   An 11th floor two bedroom two bathroom apartment with direct river views. The apartment is in immaculate condition throughout and benefits from wood flooring, built-in storage, a private balcony and residents facilities.
 
 New Providence Wharf is situated a short walk from many popular restaurants including Hawksmoor and Dishoom.
   ## DUNBAR WHARF,  NARROW STREET E14  2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/55k/54223/141086468/54223_6780252_FLP_00_0000.jpeg" alt="">
+
+  - £2,752 pcm
+  - 17/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141086468#/?channel=RES_LET">DUNBAR WHARF,  NARROW STREET E14 </a>
+  - Alphabet City, London Sales Logo
 
   LUXURY RIVERSIDE LIVING...
 Alphabet City is delighted to offer this beautifully presented, spacious 2 bed, 2 bathroom apartment with superb river views in the ever popular Dunbar Wharf. The apartment features a glass balcony to enhance the view, contemporary furnishing, wood flooring, concierge service and gym. Parking included, it is only minutes to either Westferry or Limehouse DLR, this apartment is perfectly situated for Canary Wharf  or the City, and local restaurants, bars and cinema. Don't miss out call now to view!
@@ -2579,12 +3382,26 @@ VIEWING
 All viewing strictly by appointment with Alphabet City  ,
   ## Antillies Bay, Lawn House Close 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/39k/38558/140690252/38558_32630694_FLP_00_0000.jpeg" alt="">
+
+  - £2,650 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140690252#/?channel=RES_LET">Antillies Bay, Lawn House Close</a>
+  - Fisks Ltd, London Logo
 
   Dock facing two bedroom, two bathroom (en-suite to master) apartment situated in the Antilles Bay development. The property is furnished and presented in excellent condition. Internal accommodation measures approximately (87msq/936sq ft) and includes a large lounge and a separate fully fitted kitchen. The living room leads onto a large balcony affording views of South Dock and Canary Wharf. A secure underground parking bay is included in the rent.
   ## Falcon Way, LONDON, E14 2 bedroom semi-detached house
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/192k/191750/141581306/191750_champs_592560958_FLP_00_0000.jpeg" alt="">
+
+  - £2,253 pcm
+  - 17/01/2024
+  - <a href="https://www.rightmove.co.uk/properties/141581306#/?channel=RES_LET">Falcon Way, LONDON, E14</a>
+  - CHAMPS UK Property Asset Management, London Logo
 
   A spacious two bedroom apartment on ground floor and 1st floor. Apartment also offers fitted kitchen, allocated parking, and balcony offering views of the dock view within walking distance to Mudchute DLR & Asda supermarket.
 
@@ -2595,7 +3412,14 @@ Property additional info
 total: 60
   ## Lanterns Court, London, E14 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,350 pcm
+  - 16/01/2024
+  - <a href="https://www.rightmove.co.uk/properties/86527215#/?channel=RES_LET">Lanterns Court, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1790249.
 
@@ -2633,7 +3457,14 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Province Square, Canary Wharf, E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/86k/85774/140081375/85774_000002792_FLP_00_0000.jpeg" alt="">
+
+  - £2,575 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/140081375#/?channel=RES_LET">Province Square, Canary Wharf, E14</a>
+  - Benham & Reeves, Canary Wharf Logo
 
   This contemporary and stylish apartment is set on the 18th floor of Streamlight and is offered on a fully furnished basis. The development is modern and ideally located of Canary Wharf and the City with excellent transport links. Ideal for any professional working in Canary Wharf or the City. 
 
@@ -2642,7 +3473,14 @@ Offering double bedrooms, contemporary bathrooms, large and spacious open plan l
 Streamlight is in the Blackwall area which is one of the residential hubs of the Canary Wharf. With excellent transport links and within walking distance to Canary Wharf this is the place to be. Canary Wharf has a lot of offer professionals living in the area with a wide variety of shops, bars, and restaurants, along with excellent transport links with direct trains into Central London. Blackwall also has a DLR station which has direct trains to Bank station making this an idea place to live for professionals working in Canary Wharf and the City.
   ## Schooner Close, London, E14 2 bedroom maisonette
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,495 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/141696641#/?channel=RES_LET">Schooner Close, London, E14</a>
+  - OpenRent, London Logo
 
   Property Reference: 1827455.
 
@@ -2684,12 +3522,26 @@ You will not be charged any admin fees.
 Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.
   ## Limeharbour, London, E14 9LU 2 bedroom flat
 
+  [Back to table](#overview)
+
   <img src="" alt="">
+
+  - £2,500 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/137636261#/?channel=RES_LET">Limeharbour, London, E14 9LU</a>
+  - Ashley King, Docklands Logo
 
   Well located near to the centre of Canary Wharf, this stylish two bedroomed flat furnished to a high specification offers a modern lifestyle with a west facing balcony, concierge service and a secure setting on the fourteenth floor of a popular development. The property comprises sizeable reception room/kitchen with smart fitted units with integrated appliances, master bedroom with en suite shower room, second double bedroom and a chic three piece bathroom suite.Location: City Tower lies moments from Mudchute Park and the Millwall Docks, while a cosmopolitan range of shops and restaurants can be found at the nearby Canary Wharf complex. Crossharbour Station (DLR) is close by and Canary Wharf Underground Station provides the Jubilee line.Term: LongtermFurnishings: FurnishedLocal authority: Tower hamletsCOUNCIL TAX BAND: ECOUNCIL TAX: £1,857.77Total Sq Ft: 850 ApproxEPCDDisclaimer: Ashley King endeavour to advertise accurate representations of properties in descriptions, virtual tours and floor plans, however, they are intended as a guide only and interested parties must satisfy themselves by undertaking a personal inspection.
   ## Dunbar Wharf, Narrow Street, Limehouse E14 2 bedroom apartment
 
+  [Back to table](#overview)
+
   <img src="https://media.rightmove.co.uk/dir/29k/28238/141943793/28238_P67406_FLP_00_0000.jpeg" alt="">
+
+  - £2,665 pcm
+  - 13/11/2023
+  - <a href="https://www.rightmove.co.uk/properties/141943793#/?channel=RES_LET">Dunbar Wharf, Narrow Street, Limehouse E14</a>
+  - Chase Evans, Canary Wharf Logo
 
   This modern furnished two bedroom, two bathroom riverside apartment with secure parking space and a balcony affording impressive views of the Thames is set in this sought-after wharf development in Limehouse E14, a short distance away from Westferry DLR station. 
 
