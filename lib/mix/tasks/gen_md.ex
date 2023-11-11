@@ -62,9 +62,15 @@ defmodule Mix.Tasks.Gen.Md do
     |> Enum.map(fn property ->
       price = property["price"] |> String.replace(~r/\D/, "") |> String.trim()
 
+      slug =
+        ~s/#{property["address"]} #{property["title"]}/
+        |> String.replace(~r/\s/, "-")
+        |> String.replace(",", "")
+        |> String.downcase()
+
       """
       <tr>
-        <td><a href="##{property["address"]} #{property["title"]}">#{property["address"]}</a></td>
+        <td><a href="##{slug}">#{property["address"]}</a></td>
         <td>#{price}</td>
         <td>#{property["available"]}</td>
         <td><a href="#{property["link"]}">Link</a></td>
