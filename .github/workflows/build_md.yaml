@@ -1,0 +1,56 @@
+name: Build md file
+
+on:
+  push:
+    branches: ["master"]
+    paths:
+      - "gen/*.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build & Deploy static page
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Elixir
+        uses: erlef/setup-beam@61e01a43a562a89bfc54c7f9a378ff67b03e4a21 # v1.16.0
+        with:
+          elixir-version: "1.15.2" # [Required] Define the Elixir version
+          otp-version: "26.0" # [Required] Define the Erlang/OTP version
+
+      - name: Restore dependencies cache
+        id: deps-cache
+        uses: actions/cache@v3
+        with:
+          path: deps
+          key: ${{ runner.os }}-mix-${{ hashFiles('**/mix.lock') }}
+          restore-keys: ${{ runner.os }}-mix-
+
+      - name: Restore build cache
+        id: build-cache
+        uses: actions/cache@v3
+        with:
+          path: _build
+          key: ${{ runner.os }}-build-${{ matrix.otp }}-${{ matrix.elixir }}-${{ hashFiles('**/mix.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ hashFiles('**/mix.lock') }}-
+            ${{ runner.os }}-build-
+
+      - name: Install dependencies
+        run: mix deps.get
+
+      - name: Generate posts from db
+        run: mix gen.md
+
+      - name: Commit changes to db/*
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add db/*
+          git commit -m "[AUTO] Update MD" || echo "No changes to commit"
+          git push origin master
