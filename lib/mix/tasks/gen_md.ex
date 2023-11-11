@@ -9,7 +9,7 @@ defmodule Mix.Tasks.Gen.Md do
 
     json_filename = File.cwd!() <> ~s(/gen/properties.json)
     {:ok, json} = File.read(json_filename)
-    properties = json |> Jason.decode!()
+    properties = json |> Jason.decode!() |> Enum.filter(& &1["address"] !== "")
 
     filename = File.cwd!() <> ~s(/gen/properties.md)
     File.exists?(filename) && File.rm(filename)
@@ -41,17 +41,13 @@ defmodule Mix.Tasks.Gen.Md do
 
     properties
     |> Enum.each(fn property ->
-      if property[:address] === "" do
-        :invalid
-      else
-        IO.binwrite(file, """
-          ## #{property["address"]} #{property["title"]}
+      IO.binwrite(file, """
+        ## #{property["address"]} #{property["title"]}
 
-          <img src="#{property["floorplan_img"]}" alt="">
+        <img src="#{property["floorplan_img"]}" alt="">
 
-          #{property["description"]}
-        """)
-      end
+        #{property["description"]}
+      """)
     end)
 
     IO.puts("Finished file write, wrote to #{filename}")
