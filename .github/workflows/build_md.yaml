@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: mix deps.get
 
-      - name: Generate posts from db
+      - name: Generating mark down files
         run: mix gen.md
 
       - name: Writing MD file
