@@ -47,10 +47,10 @@ jobs:
       - name: Generate posts from db
         run: mix gen.md
 
-      - name: Commit changes to db/*
+      - name: Writing MD file
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add db/*
+          git add gen/*
           git commit -m "[AUTO] Update MD" || echo "No changes to commit"
           git push origin master
