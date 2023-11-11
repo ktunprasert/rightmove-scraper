@@ -4,7 +4,7 @@ on:
   push:
     branches: ["master"]
     paths:
-      - "gen/*.json"
+      - "gen/**.json"
   workflow_dispatch:
 
 permissions:
