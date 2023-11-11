@@ -28,7 +28,7 @@ defmodule Rightmove.Parser do
         floorplan: card |> Floki.find(~s/a[title="Floor plan"]/) != []
       }
     end
-    |> Enum.filter(fn property -> property[:address] end)
+    |> Enum.filter(fn property -> property[:address] !== "" end)
   end
 
   def find_floorplan(html) do
