@@ -23,7 +23,7 @@ defmodule Rightmove.Scraper do
     end)
     |> Stream.flat_map(fn {:ok, properties} -> properties end)
     |> Task.async_stream(fn %{} = map ->
-      page_html = map["link"] |> HTTPoison.get!() |> Map.get(:body) |> Floki.parse_document!()
+      page_html = map[:link] |> HTTPoison.get!() |> Map.get(:body) |> Floki.parse_document!()
 
       Map.merge(map, %{
         floorplan_img: Parser.find_floorplan(page_html),
