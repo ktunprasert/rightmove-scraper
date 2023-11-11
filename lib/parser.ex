@@ -46,6 +46,9 @@ defmodule Rightmove.Parser do
   end
 
   def find_property_description(html) do
-    html |> Floki.find(~s|h2:fl-contains("Property description") + div > div|) |> Floki.text() |> String.trim()
+    html
+    |> Floki.find(~s|h2:fl-contains("Property description") + div > div|)
+    |> Floki.text()
+    |> String.trim()
   end
 end
