@@ -35,7 +35,7 @@ defmodule Mix.Tasks.Gen.Md do
           <td>#{property["price"]}</td>
           <td>#{property["available"]}</td>
           <td><a href="#{property["link"]}">Link</a></td>
-          <td>#{property["agency"] |> String.split(",") |> Enum.at(0)}</td>
+          <td>#{property["agency"]}</td>
         </tr>
         </tbody>
         </table>
