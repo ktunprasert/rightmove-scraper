@@ -44,7 +44,14 @@ defmodule Mix.Tasks.Gen.Md do
       IO.binwrite(file, """
         ## #{property["address"]} #{property["title"]}
 
+        [Back to table](#overview)
+
         <img src="#{property["floorplan_img"]}" alt="">
+
+        - #{property["price"]}
+        - #{property["available"]}
+        - <a href="#{property["link"]}">#{property["address"]}</a>
+        - #{property["agency"]}
 
         #{property["description"]}
       """)
