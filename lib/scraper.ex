@@ -12,7 +12,7 @@ defmodule Rightmove.Scraper do
 
     htmls =
       [html] ++
-        Enum.map(0..results//24, fn i ->
+        Enum.map(24..results//24, fn i ->
           url = url <> "&index=#{i}"
 
           url |> HTTPoison.get!() |> Map.get(:body) |> Floki.parse_document!()
