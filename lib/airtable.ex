@@ -21,9 +21,15 @@ defmodule Rightmove.Airtable do
       status_code: status,
       body: body
     } =
-      HTTPoison.post!(
+      HTTPoison.put!(
         @url,
-        %{"records" => payload} |> Jason.encode!(),
+        %{
+          "performUpsert" => %{
+            "fieldsToMergeOn" => ["URL"]
+          },
+          "records" => payload
+        }
+        |> Jason.encode!(),
         headers()
       )
 
