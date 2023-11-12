@@ -22,7 +22,7 @@ defmodule Rightmove.Property do
   def to_airtable_payload(%__MODULE__{} = struct) do
     map = struct |> Map.from_struct()
 
-    %{
+    payload = %{
       "URL" => map[:link],
       "Address" => map[:address],
       "Agency" => map[:agency],
@@ -35,6 +35,12 @@ defmodule Rightmove.Property do
       ],
       "Price" => map[:price] |> String.replace(~r/\D/, "") |> String.to_integer()
     }
+
+    if map[:floorplan_img] == nil do
+      Map.delete(payload, "Floorplan Image")
+    else
+      payload
+    end
   end
 
   def from_map(%{} = map), do: struct(Rightmove.Property, map)
