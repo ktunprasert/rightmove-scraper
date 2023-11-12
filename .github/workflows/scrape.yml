@@ -46,10 +46,13 @@ jobs:
       - name: Rebuild the markdowns
         run: mix gen.md
 
-      - name: Push to Airtable
-        run: mix create.airtable
+      - name: Ensure the env is compiled
+        run: mix compile --force
         env:
           TOKEN: ${{ secrets.TOKEN }}
+
+      - name: Push to Airtable
+        run: mix create.airtable
 
       - name: Commit files
         run: |
