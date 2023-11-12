@@ -30,6 +30,19 @@ defmodule Rightmove.Airtable do
     %{status_code: status, body: body}
   end
 
+  def list_ids() do
+    %{body: body} =
+      HTTPoison.get!(
+        @url <> "?fields[]=URL",
+        headers()
+      )
+
+    body
+    |> Jason.decode!()
+    |> Map.get("records")
+    |> Enum.map(&get_in(&1, ["fields", "URL"]))
+  end
+
   defp headers() do
     [
       {"Authorization", "Bearer #{@auth_token}"},
