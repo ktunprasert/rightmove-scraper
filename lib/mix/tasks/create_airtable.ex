@@ -20,7 +20,10 @@ defmodule Mix.Tasks.Create.Airtable do
 
     records_payload
     |> Stream.chunk_every(10)
-    |> Task.async_stream(&Airtable.create_records/1)
+    |> Task.async_stream(
+      &Airtable.create_records/1,
+      timeout: 15_000
+    )
     |> Enum.to_list()
     |> IO.inspect()
 

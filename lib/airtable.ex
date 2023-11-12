@@ -21,7 +21,7 @@ defmodule Rightmove.Airtable do
       status_code: status,
       body: body
     } =
-      HTTPoison.put!(
+      HTTPoison.patch!(
         @url,
         %{
           "performUpsert" => %{
@@ -30,7 +30,9 @@ defmodule Rightmove.Airtable do
           "records" => payload
         }
         |> Jason.encode!(),
-        headers()
+        headers(),
+        timeout: 15_000,
+        recv_timeout: 15_000
       )
 
     %{status_code: status, body: body}
