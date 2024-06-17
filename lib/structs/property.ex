@@ -34,7 +34,7 @@ defmodule Rightmove.Property do
         }
       ],
       "Price" => map[:price] |> String.replace(~r/\D/, "") |> String.to_integer(),
-      "Added" => DateTime.now!("Europe/London") |> DateTime.to_string()
+      "Added" => DateTime.now!("Etc/UTC") |> DateTime.to_string()
     }
 
     if map[:floorplan_img] == nil do
