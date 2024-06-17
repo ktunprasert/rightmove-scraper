@@ -1,9 +1,9 @@
 name: Scrape and Commit Workflow
 
 on:
-  # schedule:
+  schedule:
     # Run at every hour of the day
-    # - cron: "0 */1 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 permissions:
