@@ -33,7 +33,8 @@ defmodule Rightmove.Property do
           "url" => map[:floorplan_img]
         }
       ],
-      "Price" => map[:price] |> String.replace(~r/\D/, "") |> String.to_integer()
+      "Price" => map[:price] |> String.replace(~r/\D/, "") |> String.to_integer(),
+      "Added" => DateTime.now!("Europe/London") |> DateTime.to_string()
     }
 
     if map[:floorplan_img] == nil do
