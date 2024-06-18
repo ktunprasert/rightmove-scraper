@@ -217,11 +217,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#st.-davids-square-london-e14-2-bedroom-apartment">St. Davids Square, London, E14</a></td>
-  <td>2175</td>
-  <td>Ask agent</td>
-  <td><a href="https://www.rightmove.co.uk/properties/129011945#/?channel=RES_LET">Link</a></td>
-  <td>Abby Properties LTD, London Logo</td>
+  <td><a href="#fairmont-avenue-canary-wharf-london-e14-2-bedroom-apartment">Fairmont Avenue, Canary Wharf, London, E14</a></td>
+  <td>2750</td>
+  <td>29/06/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/148905032#/?channel=RES_LET">Link</a></td>
+  <td>Savills Lettings, Canary Wharf Logo</td>
 </tr>
 
 <tr>
@@ -420,11 +420,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#fairmont-avenue-canary-wharf-london-e14-2-bedroom-apartment">Fairmont Avenue, Canary Wharf, London, E14</a></td>
-  <td>2750</td>
-  <td>29/06/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/148905032#/?channel=RES_LET">Link</a></td>
-  <td>Savills Lettings, Canary Wharf Logo</td>
+  <td><a href="#wheatsheaf-close-e14-2-bedroom-flat">Wheatsheaf Close, E14</a></td>
+  <td>1998</td>
+  <td>04/07/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/66835209#/?channel=RES_LET">Link</a></td>
+  <td>Felicity J Lord, Canary Wharf Lettings Logo</td>
 </tr>
 
 <tr>
@@ -622,11 +622,11 @@ South Quay, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#wharf-lane-limehouse-e14-7hw-–-2-bedrooms-flat-2-bedroom-flat">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a></td>
-  <td>2149</td>
-  <td>03/07/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Link</a></td>
-  <td>RentLondonFlat.com, London Logo</td>
+  <td><a href="#st.-davids-square-london-e14-2-bedroom-apartment">St. Davids Square, London, E14</a></td>
+  <td>2175</td>
+  <td>Ask agent</td>
+  <td><a href="https://www.rightmove.co.uk/properties/129011945#/?channel=RES_LET">Link</a></td>
+  <td>Abby Properties LTD, London Logo</td>
 </tr>
 
 <tr>
@@ -791,18 +791,18 @@ South Quay, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#chipka-street-canary-wharf-london-e14-2-bedroom-maisonette">Chipka Street, Canary Wharf, London, E14</a></td>
-  <td>2300</td>
-  <td>Ask agent</td>
-  <td><a href="https://www.rightmove.co.uk/properties/147967925#/?channel=RES_LET">Link</a></td>
-  <td>Ivory Real Estate, London Logo</td>
-</tr>
-
-<tr>
   <td><a href="#chipka-street-canary-wharf-e14-2-bedroom-apartment">Chipka Street, Canary Wharf, E14</a></td>
   <td>2200</td>
   <td>Now</td>
   <td><a href="https://www.rightmove.co.uk/properties/146373329#/?channel=RES_LET">Link</a></td>
+  <td>Ivory Real Estate, London Logo</td>
+</tr>
+
+<tr>
+  <td><a href="#chipka-street-canary-wharf-london-e14-2-bedroom-maisonette">Chipka Street, Canary Wharf, London, E14</a></td>
+  <td>2300</td>
+  <td>Ask agent</td>
+  <td><a href="https://www.rightmove.co.uk/properties/147967925#/?channel=RES_LET">Link</a></td>
   <td>Ivory Real Estate, London Logo</td>
 </tr>
 
@@ -823,11 +823,11 @@ South Quay, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#talisman-tower-6-lincoln-plaza-canary-wharf-london-e14-2-bedroom-apartment">Talisman Tower, 6 Lincoln Plaza, Canary Wharf, London, E14</a></td>
-  <td>2800</td>
-  <td>31/07/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149225204#/?channel=RES_LET">Link</a></td>
-  <td>Life Residential, Canary Wharf Office - Lettings Logo</td>
+  <td><a href="#wharf-lane-limehouse-e14-7hw-–-2-bedrooms-flat-2-bedroom-flat">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a></td>
+  <td>2149</td>
+  <td>03/07/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Link</a></td>
+  <td>RentLondonFlat.com, London Logo</td>
 </tr>
 
 <tr>
@@ -1202,16 +1202,16 @@ Cubitt Town, E14</a>
   - Stirling Ackroyd Lettings, Canary Wharf Logo
 
   
-  ## St. Davids Square, London, E14 2 bedroom apartment
+  ## Fairmont Avenue, Canary Wharf, London, E14 2 bedroom apartment
 
   [Back to table](#overview)
 
-  <img src="" alt="">
+  <img src="https://media.rightmove.co.uk/dir/49k/48994/148905032/48994_CNL190119_L_FLP_00_0000.jpeg" alt="">
 
-  - £2,175 pcm
-  - Ask agent
-  - <a href="https://www.rightmove.co.uk/properties/129011945#/?channel=RES_LET">St. Davids Square, London, E14</a>
-  - Abby Properties LTD, London Logo
+  - £2,750 pcm
+  - 29/06/2024
+  - <a href="https://www.rightmove.co.uk/properties/148905032#/?channel=RES_LET">Fairmont Avenue, Canary Wharf, London, E14</a>
+  - Savills Lettings, Canary Wharf Logo
 
   
   ## Meridian Place, Canary Wharf 2 bedroom flat
@@ -1508,16 +1508,16 @@ Cubitt Town, E14</a>
   - OpenRent, London Logo
 
   
-  ## Fairmont Avenue, Canary Wharf, London, E14 2 bedroom apartment
+  ## Wheatsheaf Close, E14 2 bedroom flat
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/49k/48994/148905032/48994_CNL190119_L_FLP_00_0000.jpeg" alt="">
+  <img src="https://media.rightmove.co.uk/dir/12k/11475/66835209/11475_0439_FJL043902354_FLP_00_0000.jpeg" alt="">
 
-  - £2,750 pcm
-  - 29/06/2024
-  - <a href="https://www.rightmove.co.uk/properties/148905032#/?channel=RES_LET">Fairmont Avenue, Canary Wharf, London, E14</a>
-  - Savills Lettings, Canary Wharf Logo
+  - £1,998 pcm
+  - 04/07/2024
+  - <a href="https://www.rightmove.co.uk/properties/66835209#/?channel=RES_LET">Wheatsheaf Close, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   
   ## Brunel House, London, E14 2 bedroom flat
@@ -1812,16 +1812,16 @@ South Quay, E14</a>
   - CityZEN, London Logo
 
   
-  ## Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat 2 bedroom flat
+  ## St. Davids Square, London, E14 2 bedroom apartment
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/147k/146147/149088965/146147_PR171450_FLP_00_0004.png" alt="">
+  <img src="" alt="">
 
-  - £2,149 pcm
-  - 03/07/2024
-  - <a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a>
-  - RentLondonFlat.com, London Logo
+  - £2,175 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/129011945#/?channel=RES_LET">St. Davids Square, London, E14</a>
+  - Abby Properties LTD, London Logo
 
   
   ## Wheel House, 
@@ -2066,18 +2066,6 @@ South Quay, E14</a>
   - Mayfords Estate Agent, Middlesex Logo
 
   
-  ## Chipka Street, Canary Wharf, London, E14 2 bedroom maisonette
-
-  [Back to table](#overview)
-
-  <img src="" alt="">
-
-  - £2,300 pcm
-  - Ask agent
-  - <a href="https://www.rightmove.co.uk/properties/147967925#/?channel=RES_LET">Chipka Street, Canary Wharf, London, E14</a>
-  - Ivory Real Estate, London Logo
-
-  
   ## Chipka Street, Canary Wharf, E14 2 bedroom apartment
 
   [Back to table](#overview)
@@ -2087,6 +2075,18 @@ South Quay, E14</a>
   - £2,200 pcm
   - Now
   - <a href="https://www.rightmove.co.uk/properties/146373329#/?channel=RES_LET">Chipka Street, Canary Wharf, E14</a>
+  - Ivory Real Estate, London Logo
+
+  
+  ## Chipka Street, Canary Wharf, London, E14 2 bedroom maisonette
+
+  [Back to table](#overview)
+
+  <img src="" alt="">
+
+  - £2,300 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/147967925#/?channel=RES_LET">Chipka Street, Canary Wharf, London, E14</a>
   - Ivory Real Estate, London Logo
 
   
@@ -2114,16 +2114,16 @@ South Quay, E14</a>
   - CityWharf Property Investment Consultancy, Canary Wharf Logo
 
   
-  ## Talisman Tower, 6 Lincoln Plaza, Canary Wharf, London, E14 2 bedroom apartment
+  ## Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat 2 bedroom flat
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/53k/52518/149225204/52518_CWL150232_L_FLP_00_0000.jpeg" alt="">
+  <img src="https://media.rightmove.co.uk/dir/147k/146147/149088965/146147_PR171450_FLP_00_0004.png" alt="">
 
-  - £2,800 pcm
-  - 31/07/2024
-  - <a href="https://www.rightmove.co.uk/properties/149225204#/?channel=RES_LET">Talisman Tower, 6 Lincoln Plaza, Canary Wharf, London, E14</a>
-  - Life Residential, Canary Wharf Office - Lettings Logo
+  - £2,149 pcm
+  - 03/07/2024
+  - <a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a>
+  - RentLondonFlat.com, London Logo
 
   
   ## Elektron Tower, Blackwall,  London, E14 2 bedroom apartment
