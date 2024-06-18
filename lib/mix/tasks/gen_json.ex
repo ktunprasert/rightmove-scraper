@@ -5,7 +5,7 @@ defmodule Mix.Tasks.Gen.Json do
 
   alias Rightmove.Scraper
 
-  @url "https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION^85362&maxBedrooms=2&minBedrooms=2&maxPrice=2800&propertyTypes&includeLetAgreed=false&mustHave&dontShow&furnishTypes=furnished&keywords"
+  @url "https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION^85362&maxBedrooms=2&minBedrooms=4&maxPrice=3300&propertyTypes&includeLetAgreed=false&mustHave&dontShow&furnishTypes=furnished&keywords"
 
   @impl Mix.Task
   def run(_args) do
