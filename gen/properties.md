@@ -217,11 +217,11 @@ Millwall, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#wharf-lane-limehouse-e14-7hw-–-2-bedrooms-flat-2-bedroom-flat">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a></td>
-  <td>2149</td>
-  <td>03/07/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Link</a></td>
-  <td>RentLondonFlat.com, London Logo</td>
+  <td><a href="#horizons-tower--yabsley-street-london-2-bedroom-apartment">Horizons Tower,  Yabsley Street, London</a></td>
+  <td>2700</td>
+  <td>24/06/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/149234240#/?channel=RES_LET">Link</a></td>
+  <td>CityWharf Property Investment Consultancy, Canary Wharf Logo</td>
 </tr>
 
 <tr>
@@ -418,11 +418,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#wharf-lane-limehouse-e14-7hw-–-2-bedrooms-flat-2-bedroom-flat">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a></td>
-  <td>2149</td>
-  <td>03/07/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Link</a></td>
-  <td>RentLondonFlat.com, London Logo</td>
+  <td><a href="#wheatsheaf-close-e14-2-bedroom-flat">Wheatsheaf Close, E14</a></td>
+  <td>1998</td>
+  <td>04/07/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/66835209#/?channel=RES_LET">Link</a></td>
+  <td>Felicity J Lord, Canary Wharf Lettings Logo</td>
 </tr>
 
 <tr>
@@ -822,11 +822,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#williamsburg-plaza-london-greater-london-e14-3-bedroom-apartment">Williamsburg Plaza,, London,, Greater London, E14</a></td>
-  <td>3250</td>
-  <td>21/08/2026</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149302184#/?channel=RES_LET">Link</a></td>
-  <td>Metro Village Ltd, Canada Water Logo</td>
+  <td><a href="#maine-tower-harbour-way-london-e14-2-bedroom-apartment">Maine Tower,, Harbour Way,, London, E14</a></td>
+  <td>3150</td>
+  <td>01/07/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/149169668#/?channel=RES_LET">Link</a></td>
+  <td>The Chant Group, Bank Logo</td>
 </tr>
 
 <tr>
@@ -1024,11 +1024,11 @@ South Quay, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#williamsburg-plaza-london-greater-london-e14-3-bedroom-apartment">Williamsburg Plaza,, London,, Greater London, E14</a></td>
-  <td>3250</td>
-  <td>21/08/2026</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149302184#/?channel=RES_LET">Link</a></td>
-  <td>Metro Village Ltd, Canada Water Logo</td>
+  <td><a href="#wharf-lane-limehouse-e14-7hw-–-2-bedrooms-flat-2-bedroom-flat">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a></td>
+  <td>2149</td>
+  <td>03/07/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Link</a></td>
+  <td>RentLondonFlat.com, London Logo</td>
 </tr>
 
 <tr>
@@ -1226,11 +1226,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#67-marsh-wall-london-e14-2-bedroom-apartment">67 Marsh Wall London E14</a></td>
-  <td>3033</td>
-  <td>05/07/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/148774118#/?channel=RES_LET">Link</a></td>
-  <td>JLL, Canary Wharf Logo</td>
+  <td><a href="#millennium-drive-isle-of-dogs-2-bedroom-flat">Millennium Drive, Isle of Dogs</a></td>
+  <td>2500</td>
+  <td>26/06/2024</td>
+  <td><a href="https://www.rightmove.co.uk/properties/148251353#/?channel=RES_LET">Link</a></td>
+  <td>Proper Local, London Logo</td>
 </tr>
 
 <tr>
@@ -1427,11 +1427,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#jamestown-way-london-e14-4-bedroom-mews-house">Jamestown Way, London, E14</a></td>
-  <td>3142</td>
-  <td>Ask agent</td>
-  <td><a href="https://www.rightmove.co.uk/properties/148330682#/?channel=RES_LET">Link</a></td>
-  <td>CBRE Residential, East London Logo</td>
+  <td><a href="#williamsburg-plaza-london-greater-london-e14-3-bedroom-apartment">Williamsburg Plaza,, London,, Greater London, E14</a></td>
+  <td>3250</td>
+  <td>21/08/2026</td>
+  <td><a href="https://www.rightmove.co.uk/properties/149302184#/?channel=RES_LET">Link</a></td>
+  <td>Metro Village Ltd, Canada Water Logo</td>
 </tr>
 
 <tr>
@@ -1603,18 +1603,18 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#chipka-street-canary-wharf-e14-2-bedroom-apartment">Chipka Street, Canary Wharf, E14</a></td>
-  <td>2200</td>
-  <td>Now</td>
-  <td><a href="https://www.rightmove.co.uk/properties/146373329#/?channel=RES_LET">Link</a></td>
-  <td>Ivory Real Estate, London Logo</td>
-</tr>
-
-<tr>
   <td><a href="#chipka-street-canary-wharf-london-e14-2-bedroom-maisonette">Chipka Street, Canary Wharf, London, E14</a></td>
   <td>2300</td>
   <td>Ask agent</td>
   <td><a href="https://www.rightmove.co.uk/properties/147967925#/?channel=RES_LET">Link</a></td>
+  <td>Ivory Real Estate, London Logo</td>
+</tr>
+
+<tr>
+  <td><a href="#chipka-street-canary-wharf-e14-2-bedroom-apartment">Chipka Street, Canary Wharf, E14</a></td>
+  <td>2200</td>
+  <td>Now</td>
+  <td><a href="https://www.rightmove.co.uk/properties/146373329#/?channel=RES_LET">Link</a></td>
   <td>Ivory Real Estate, London Logo</td>
 </tr>
 
@@ -1627,11 +1627,11 @@ Cubitt Town, E14</a></td>
 </tr>
 
 <tr>
-  <td><a href="#talisman-tower-6-lincoln-plaza-canary-wharf-london-e14-2-bedroom-apartment">Talisman Tower, 6 Lincoln Plaza, Canary Wharf, London, E14</a></td>
-  <td>2900</td>
-  <td>12/08/2024</td>
-  <td><a href="https://www.rightmove.co.uk/properties/149204732#/?channel=RES_LET">Link</a></td>
-  <td>Life Residential, Canary Wharf Office - Lettings Logo</td>
+  <td><a href="#jamestown-way-london-e14-4-bedroom-mews-house">Jamestown Way, London, E14</a></td>
+  <td>3142</td>
+  <td>Ask agent</td>
+  <td><a href="https://www.rightmove.co.uk/properties/148330682#/?channel=RES_LET">Link</a></td>
+  <td>CBRE Residential, East London Logo</td>
 </tr>
 
 <tr>
@@ -2030,16 +2030,16 @@ Millwall, E14</a>
   - Neptune Homes, London Logo
 
   
-  ## Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat 2 bedroom flat
+  ## Horizons Tower,  Yabsley Street, London 2 bedroom apartment
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/147k/146147/149088965/146147_PR171450_FLP_00_0004.png" alt="">
+  <img src="" alt="">
 
-  - £2,149 pcm
-  - 03/07/2024
-  - <a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a>
-  - RentLondonFlat.com, London Logo
+  - £2,700 pcm
+  - 24/06/2024
+  - <a href="https://www.rightmove.co.uk/properties/149234240#/?channel=RES_LET">Horizons Tower,  Yabsley Street, London</a>
+  - CityWharf Property Investment Consultancy, Canary Wharf Logo
 
   
   ## Langbourne Place, 
@@ -2332,16 +2332,16 @@ Cubitt Town, E14</a>
   - RentLondonFlat.com, London Logo
 
   
-  ## Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat 2 bedroom flat
+  ## Wheatsheaf Close, E14 2 bedroom flat
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/147k/146147/149088965/146147_PR171450_FLP_00_0004.png" alt="">
+  <img src="https://media.rightmove.co.uk/dir/12k/11475/66835209/11475_0439_FJL043902354_FLP_00_0000.jpeg" alt="">
 
-  - £2,149 pcm
-  - 03/07/2024
-  - <a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a>
-  - RentLondonFlat.com, London Logo
+  - £1,998 pcm
+  - 04/07/2024
+  - <a href="https://www.rightmove.co.uk/properties/66835209#/?channel=RES_LET">Wheatsheaf Close, E14</a>
+  - Felicity J Lord, Canary Wharf Lettings Logo
 
   
   ## Charrington Tower, 1 Fairmount Avenue, Canary Wharf, Blackwall, London, E14 9PB 2 bedroom apartment
@@ -2940,16 +2940,16 @@ Cubitt Town, E14</a>
   - Regent Letting and Property Management, London Logo
 
   
-  ## Williamsburg Plaza,, London,, Greater London, E14 3 bedroom apartment
+  ## Maine Tower,, Harbour Way,, London, E14 2 bedroom apartment
 
   [Back to table](#overview)
 
   <img src="" alt="">
 
-  - £3,250 pcm
-  - 21/08/2026
-  - <a href="https://www.rightmove.co.uk/properties/149302184#/?channel=RES_LET">Williamsburg Plaza,, London,, Greater London, E14</a>
-  - Metro Village Ltd, Canada Water Logo
+  - £3,150 pcm
+  - 01/07/2024
+  - <a href="https://www.rightmove.co.uk/properties/149169668#/?channel=RES_LET">Maine Tower,, Harbour Way,, London, E14</a>
+  - The Chant Group, Bank Logo
 
   
   ## Naxos Building, 4 Hutchings Street, Canary Wharf, E14 2 bedroom apartment
@@ -3244,16 +3244,16 @@ South Quay, E14</a>
   - Clarendons, Surrey & West Sussex - Lettings Logo
 
   
-  ## Williamsburg Plaza,, London,, Greater London, E14 3 bedroom apartment
+  ## Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat 2 bedroom flat
 
   [Back to table](#overview)
 
-  <img src="" alt="">
+  <img src="https://media.rightmove.co.uk/dir/147k/146147/149088965/146147_PR171450_FLP_00_0004.png" alt="">
 
-  - £3,250 pcm
-  - 21/08/2026
-  - <a href="https://www.rightmove.co.uk/properties/149302184#/?channel=RES_LET">Williamsburg Plaza,, London,, Greater London, E14</a>
-  - Metro Village Ltd, Canada Water Logo
+  - £2,149 pcm
+  - 03/07/2024
+  - <a href="https://www.rightmove.co.uk/properties/149088965#/?channel=RES_LET">Wharf Lane, Limehouse, E14 7HW – 2 Bedrooms Flat</a>
+  - RentLondonFlat.com, London Logo
 
   
   ## Landmark East, Marsh Wall,  E14 2 bedroom apartment
@@ -3548,16 +3548,16 @@ Cubitt Town, E14</a>
   - Chestertons, Canary Wharf & Docklands Lettings Logo
 
   
-  ## 67 Marsh Wall London E14 2 bedroom apartment
+  ## Millennium Drive, Isle of Dogs 2 bedroom flat
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/213k/212327/148774118/212327_P152203_FLP_00_0000.jpeg" alt="">
+  <img src="https://media.rightmove.co.uk/dir/159k/158741/148251353/158741_12330362_FLP_00_0000.jpeg" alt="">
 
-  - £3,033 pcm
-  - 05/07/2024
-  - <a href="https://www.rightmove.co.uk/properties/148774118#/?channel=RES_LET">67 Marsh Wall London E14</a>
-  - JLL, Canary Wharf Logo
+  - £2,500 pcm
+  - 26/06/2024
+  - <a href="https://www.rightmove.co.uk/properties/148251353#/?channel=RES_LET">Millennium Drive, Isle of Dogs</a>
+  - Proper Local, London Logo
 
   
   ## Talisman Tower, Canary Wharf, E14 3 bedroom apartment
@@ -3850,16 +3850,16 @@ Cubitt Town, E14</a>
   - RentLondonFlat.com, London Logo
 
   
-  ## Jamestown Way, London, E14 4 bedroom mews house
+  ## Williamsburg Plaza,, London,, Greater London, E14 3 bedroom apartment
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/37k/36789/148330682/36789_CAR150238_L_FLP_00_0000.jpeg" alt="">
+  <img src="" alt="">
 
-  - £3,142 pcm
-  - Ask agent
-  - <a href="https://www.rightmove.co.uk/properties/148330682#/?channel=RES_LET">Jamestown Way, London, E14</a>
-  - CBRE Residential, East London Logo
+  - £3,250 pcm
+  - 21/08/2026
+  - <a href="https://www.rightmove.co.uk/properties/149302184#/?channel=RES_LET">Williamsburg Plaza,, London,, Greater London, E14</a>
+  - Metro Village Ltd, Canada Water Logo
 
   
   ## St Davids Square, Isle of Dogs, London E14 2 bedroom apartment
@@ -4114,18 +4114,6 @@ Cubitt Town, E14</a>
   - Mayfords Estate Agent, Middlesex Logo
 
   
-  ## Chipka Street, Canary Wharf, E14 2 bedroom apartment
-
-  [Back to table](#overview)
-
-  <img src="" alt="">
-
-  - £2,200 pcm
-  - Now
-  - <a href="https://www.rightmove.co.uk/properties/146373329#/?channel=RES_LET">Chipka Street, Canary Wharf, E14</a>
-  - Ivory Real Estate, London Logo
-
-  
   ## Chipka Street, Canary Wharf, London, E14 2 bedroom maisonette
 
   [Back to table](#overview)
@@ -4135,6 +4123,18 @@ Cubitt Town, E14</a>
   - £2,300 pcm
   - Ask agent
   - <a href="https://www.rightmove.co.uk/properties/147967925#/?channel=RES_LET">Chipka Street, Canary Wharf, London, E14</a>
+  - Ivory Real Estate, London Logo
+
+  
+  ## Chipka Street, Canary Wharf, E14 2 bedroom apartment
+
+  [Back to table](#overview)
+
+  <img src="" alt="">
+
+  - £2,200 pcm
+  - Now
+  - <a href="https://www.rightmove.co.uk/properties/146373329#/?channel=RES_LET">Chipka Street, Canary Wharf, E14</a>
   - Ivory Real Estate, London Logo
 
   
@@ -4150,16 +4150,16 @@ Cubitt Town, E14</a>
   - Mayfords Estate Agent, Middlesex Logo
 
   
-  ## Talisman Tower, 6 Lincoln Plaza, Canary Wharf, London, E14 2 bedroom apartment
+  ## Jamestown Way, London, E14 4 bedroom mews house
 
   [Back to table](#overview)
 
-  <img src="https://media.rightmove.co.uk/dir/53k/52518/149204732/52518_CWL170235_L_FLP_00_0000.jpeg" alt="">
+  <img src="https://media.rightmove.co.uk/dir/37k/36789/148330682/36789_CAR150238_L_FLP_00_0000.jpeg" alt="">
 
-  - £2,900 pcm
-  - 12/08/2024
-  - <a href="https://www.rightmove.co.uk/properties/149204732#/?channel=RES_LET">Talisman Tower, 6 Lincoln Plaza, Canary Wharf, London, E14</a>
-  - Life Residential, Canary Wharf Office - Lettings Logo
+  - £3,142 pcm
+  - Ask agent
+  - <a href="https://www.rightmove.co.uk/properties/148330682#/?channel=RES_LET">Jamestown Way, London, E14</a>
+  - CBRE Residential, East London Logo
 
   
   ## Horizons Tower,  Yabsley Street, London 2 bedroom apartment
