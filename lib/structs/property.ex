@@ -11,14 +11,6 @@ defmodule Rightmove.Property do
     :description
   ]
 
-  # Field mappings
-  # URL: URL
-  # Address: A Single line text
-  # Agency: A Single line text
-  # Available Date: A Single line text
-  # Description: Long text
-  # Floorplan Image: Attachment
-  # Price: Currency
   def to_airtable_payload(%__MODULE__{} = struct) do
     map = struct |> Map.from_struct()
 
@@ -37,10 +29,9 @@ defmodule Rightmove.Property do
       "Added" => DateTime.now!("Etc/UTC") |> DateTime.to_string()
     }
 
-    if map[:floorplan_img] == nil do
-      Map.delete(payload, "Floorplan Image")
-    else
-      payload
+    case map[:floorplan_img] do
+      nil -> Map.delete(payload, "Floorplan Image")
+      _ -> payload
     end
   end
 
