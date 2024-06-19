@@ -4,27 +4,24 @@ defmodule Rightmove.Scraper do
   def scrape_links(url) do
     {:ok, %{body: body}} = url |> HTTPoison.get()
 
-    html =
-      body
-      |> Floki.parse_document!()
+    html = body |> Floki.parse_document!()
 
     results = Parser.get_total_results(html)
 
     htmls =
-      ([html] ++
-         Enum.map(24..results//24, fn i ->
-           url = url <> "&index=#{i}"
+      [html] ++
+        Enum.map(24..results//24, fn i ->
+          url = url <> "&index=#{i}"
 
-           case HTTPoison.get(url) do
-             {:error, _} -> nil
-             {:ok, %{body: body}} -> body |> Floki.parse_document!()
-           end
-         end))
-      |> Enum.filter(&(&1 != nil))
+          case HTTPoison.get(url) do
+            {:error, _} -> nil
+            {:ok, %{body: body}} -> body |> Floki.parse_document!()
+          end
+        end)
 
-    Task.async_stream(htmls, fn html ->
-      Parser.find_properties(html)
-    end)
+    htmls
+    |> Enum.filter(&(&1 != nil))
+    |> Task.async_stream(&Parser.find_properties/1)
     |> Stream.flat_map(fn {:ok, properties} -> properties end)
     |> Task.async_stream(
       fn %{} = map ->
@@ -44,7 +41,9 @@ defmodule Rightmove.Scraper do
       end,
       timeout: :infinity
     )
-    |> Enum.filter(&(&1 != nil))
-    |> Enum.map(fn {:ok, map} -> map end)
+    |> Enum.flat_map(fn
+      {:ok, map} -> [map]
+      nil -> []
+    end)
   end
 end
