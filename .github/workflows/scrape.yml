@@ -43,8 +43,8 @@ jobs:
       - name: Generate the JSON
         run: mix gen.json
 
-      - name: Rebuild the markdowns
-        run: mix gen.md
+      # - name: Rebuild the markdowns
+      #   run: mix gen.md
 
       - name: Push to Airtable
         run: mix compile --force && mix create.airtable
