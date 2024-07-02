@@ -14,6 +14,7 @@ defmodule Mix.Tasks.Create.Airtable do
 
     records_payload =
       properties
+      |> Enum.reject(fn p -> p == nil end)
       |> Enum.map(fn p ->
         p |> Property.from_map() |> Property.to_airtable_payload() |> then(&%{"fields" => &1})
       end)
