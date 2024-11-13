@@ -1,16 +1,27 @@
 defmodule Rightmove.Scraper do
   alias Rightmove.Parser
 
-  def scrape_links(url) do
+  def scrape_links(url, api) do
     {:ok, %{body: body}} = url |> HTTPoison.get()
 
     html = body |> Floki.parse_document!()
 
-    results = Parser.get_total_results(html)
+    page_range =
+      if api == "" do
+        total = Parser.get_total_results(html)
+        24..total//24
+      else
+        {:ok, %{body: body}} = HTTPoison.get(api)
+
+        body
+        |> Jason.decode!()
+        |> get_in(["pagination", "total"])
+        |> then(&((1 * 24)..(&1 - 1 * 24)//24))
+      end
 
     htmls =
       [html] ++
-        Enum.map(24..results//24, fn i ->
+        Enum.map(page_range, fn i ->
           url = url <> "&index=#{i}"
 
           case HTTPoison.get(url) do
