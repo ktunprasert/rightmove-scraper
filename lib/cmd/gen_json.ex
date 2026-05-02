@@ -5,8 +5,8 @@ defmodule Mix.Tasks.Gen.Json do
 
   alias Rightmove.Scraper
 
-  @url "https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION^85362&maxBedrooms=2&minBedrooms=4&maxPrice=3300&propertyTypes&includeLetAgreed=false&mustHave&dontShow&furnishTypes=furnished&keywords"
-  @api "https://www.rightmove.co.uk/api/property-search/listing/search?locationIdentifier=REGION%5E85362&maxBedrooms=2&minBedrooms=4&maxPrice=3300&propertyTypes=&includeLetAgreed=false&mustHave=&dontShow=&furnishTypes=furnished&keywords=&sortType=6&channel=RENT&transactionType=LETTING"
+  @url "https://www.rightmove.co.uk/property-to-rent/find.html?minBedrooms=2&maxBedrooms=4&sortType=6&includeLetAgreed=false&areaSizeUnit=sqft&channel=RENT&index=0&maxPrice=2250&locationIdentifier=STATION%5E10286&transactionType=LETTING&displayLocationIdentifier=undefined&furnishTypes=furnished&dontShow=houseShare&radius=1.0"
+  @api "https://www.rightmove.co.uk/api/property-search/listing/search?minBedrooms=2&maxBedrooms=4&sortType=6&includeLetAgreed=false&areaSizeUnit=sqft&viewType=MAP&channel=RENT&index=0&maxPrice=2250&locationIdentifier=STATION%5E10286&numberOfPropertiesPerPage=95&transactionType=LETTING&displayLocationIdentifier=undefined&furnishTypes=furnished&dontShow=houseShare&radius=1.0"
 
   @impl Mix.Task
   def run(_args) do
