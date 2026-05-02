@@ -1,31 +1,31 @@
 defmodule Rightmove.Parser do
   def get_total_results(html) do
     html
-    |> Floki.find(".searchHeader-resultCount")
+    |> Floki.find("[class*=\"ResultsCount_resultsCount\"]")
     |> Floki.text()
     |> String.trim()
-    |> String.replace(",", "")
+    |> String.replace(~r/[^\d]/, "")
     |> String.to_integer()
   end
 
   def find_properties(html) do
-    for card <- html |> Floki.find(".propertyCard") do
+    for card <- html |> Floki.find("[class*=\"propertyCard-details\"]") do
       %{
-        title: card |> Floki.find(".propertyCard-title") |> Floki.text() |> String.trim(),
-        address: card |> Floki.find(".propertyCard-address") |> Floki.text(),
-        price: card |> Floki.find(".propertyCard-priceValue") |> Floki.text(),
+        title: card |> Floki.find("[class*=\"PropertyInformation_propertyType\"]") |> List.first() |> Floki.text() |> String.trim(),
+        address: card |> Floki.find("[class*=\"PropertyAddress_address\"]") |> List.first() |> Floki.text(),
+        price: card |> Floki.find("[class*=\"PropertyPrice_price__\"]") |> List.first() |> Floki.text(),
         link:
           card
-          |> Floki.find(".propertyCard-link")
+          |> Floki.find("a[class*=\"propertyCard-link\"]")
           |> Floki.attribute("href")
           |> List.first()
           |> then(&"https://www.rightmove.co.uk#{&1}"),
         agency:
           card
-          |> Floki.find(".propertyCard-branchLogo-image")
+          |> Floki.find("img[class*=\"EstateAgent_estateAgentLogo\"]")
           |> Floki.attribute("alt")
           |> List.first(),
-        floorplan: card |> Floki.find(~s/a[title="Floor plan"]/) != []
+        floorplan: card |> Floki.find(~s/img[title="Property has a floorplan"]/) != []
       }
     end
     |> Enum.filter(fn property -> property[:address] !== "" end)
@@ -47,7 +47,7 @@ defmodule Rightmove.Parser do
 
   def find_property_description(html) do
     html
-    |> Floki.find(~s|h2:fl-contains("Property description") + div > div|)
+    |> Floki.find(~s|h2:fl-contains("Description") + div > div|)
     |> Floki.text()
     |> String.trim()
   end
