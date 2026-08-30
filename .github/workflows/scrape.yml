@@ -1,9 +1,9 @@
 name: Scrape Commit Push Airtable
 
 on:
-  schedule:
+  #schedule:
   # Run at every 4 hours of the day
-  - cron: "0 */4 * * *"
+  #- cron: "0 */4 * * *"
   workflow_dispatch:
 
 permissions:
